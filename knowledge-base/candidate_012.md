@@ -1,117 +1,56 @@
-# Maya Ortega
+# Avery Chen
 
 ## Summary
 
-7 years of DevOps engineer experience focusing on cloud-native architectures, Kubernetes migrations, and automation. Expert at building scalable CI/CD pipelines, optimizing cloud spend, and improving system reliability. Proven track record of mentoring junior engineers and leading cross-functional reliability initiatives.
+Results-driven DevOps Engineer with 12 years of experience in cloud-native environments, automation, and reliability engineering. Expertise spans designing scalable CI/CD pipelines, containerized architectures, and IaC across AWS and GCP. Proven ability to reduce deployment times, cut operational costs, and improve incident response. Strong collaborator who mentors teammates and translates business goals into robust technical solutions. Note: actively addressing skill gaps in Kubernetes operator patterns and Terraform Cloud advanced features.
 
 ## Skills
 
-- Kubernetes, Docker
-- Terraform, Ansible
-- AWS (EC2, S3, EKS), GCP
-- CI/CD: GitHub Actions, Jenkins
-- Helm, ArgoCD
-- Monitoring/Logging: Prometheus, Grafana, ELK
-- Scripting: Python, Bash
-- Linux/Networking, Security basics
-- Incident Response, RCA
+- Cloud: AWS (EC2, S3, RDS, IAM, VPC, EKS), GCP basics
+- Containerization / Orchestration: Docker, Kubernetes, Helm, ArgoCD
+- CI/CD / GitOps: Jenkins, GitHub Actions, GitLab CI, automated testing, blue/green and canary releases
+- Infrastructure as Code: Terraform, Ansible, CloudFormation basics
+- Configuration & Scripting: Bash, Python, Go (basic)
+- Monitoring / Logging: Prometheus, Grafana, ELK stack
+- Networking: VPCs, subnets, NAT, load balancers, DNS
+- Security: IAM policies, Secrets management (Vault), basic SAST/DAST
+- Databases: PostgreSQL, MySQL, Redis, DynamoDB
+- Version control: Git
+- Soft skills: collaboration, incident management, mentoring
+- Gaps: Kubernetes production-operator experience; Terraform Cloud advanced features; Windows containers
 
 ## Experience
 
-### NovaTech Solutions - DevOps Engineer
-2019-2022
+### NovaTech Solutions - Senior DevOps Engineer
+2019 — Present
 
-- Migrated 30+ services from VM-based deployments to Kubernetes; deployment time reduced from 45 minutes to 5 minutes; improved rollback safety.
-- Implemented CI/CD pipelines with GitHub Actions and Jenkins; automated tests and canary deployments; MTTR reduced by 40%.
-- Built centralized monitoring with Prometheus, Grafana, and ELK; standardized incident response playbooks; reduced on-call incidents by 30%.
+- Led migration of multiple microservices to AWS EKS, achieving 60% faster deployment cycles and improved system reliability.
+- Built centralized CI/CD pipelines with GitHub Actions and Jenkins for all services, enabling consistent builds, tests, and automated rollouts with blue/green and canary strategies.
+- Created a shared IaC library (Terraform modules) used by 6 teams to provision networking, IAM, and compute resources, reducing provisioning time by ~40%.
+- Implemented Prometheus/Grafana dashboards and alerting, reducing alert fatigue and MTTR by 35%; defined SLOs and error budgets with clear on-call playbooks.
+- Implemented a containerized logging and tracing stack (ELK + OpenTelemetry) to improve visibility across data pipelines; achieved faster root-cause analysis.
+- Designed disaster recovery and cross-region backup for RDS and S3, with tested failover procedures and runbooks.
+- Mentored 4 junior engineers; established onboarding checklists and on-call rotations; led security hardening reviews.
+- Note: actively upskilling in Kubernetes operators and Terraform Cloud features to close gaps in production-grade operator patterns and advanced IaC workflows.
 
-### CloudForge Labs - Senior DevOps Engineer
-2022-2026
+### BluePeak Analytics - Platform Engineer
+2016 — 2019
 
-- Led GitOps adoption with ArgoCD and Helm; automated release pipelines across production; deployed daily releases with safe rollbacks.
-- Implemented cloud cost optimization (AWS) with resource tagging, rightsizing, and lifecycle policies; saved 25% monthly spend.
-- Designed disaster recovery with cross-region backups and automated DR tests; RTO under 15 minutes.
+- Modernized data platform by containerizing services with Docker and migrating to Kubernetes, enabling scalable processing for peak loads.
+- Implemented Helm charts and GitOps workflows to automate deployments, rollbacks, and environment parity across staging and production.
+- Built reusable Terraform modules for VPCs, networking, and compute resources; reduced configuration drift and provisioning errors.
+- Implemented centralized monitoring with Prometheus, Grafana, and the ELK stack; improved service visibility and incident response.
+- Automated ETL job deployments and scheduling, reducing downtime during upgrades; cut mean time to recovery by approximately 50%.
+- Collaborated with security and data teams to strengthen access controls and secret management; contributed to internal runbooks and post-incident reviews.
 
-## Education
+### GreenForge Labs - Junior DevOps Engineer
+2014 — 2016
 
-BSc in Computer Science, Seabrook University, 2015-2019
-
----
-
-# Liam Carter
-
-## Summary
-
-Early-career DevOps Engineer with 3 years of experience in containerization, CI/CD, and automation. Proficient with Docker, Linux, and Jenkins; actively building cloud and infrastructure-as-code skills. Currently upskilling Kubernetes and Terraform; thrives in collaborative environments and values incremental reliability improvements.
-
-## Skills
-
-- Docker, Linux, Python, Bash
-- Jenkins, GitLab CI
-- AWS (EC2, S3)
-- Kubernetes (Foundational)
-- Terraform (In progress)
-- Ansible (basic)
-- Prometheus, Grafana
-- Git, REST
-
-- Areas for growth: Kubernetes maturity, Terraform modules, cost management, multi-region failover.
-
-## Experience
-
-### Solarix Tech - DevOps Engineer
-2022-2023
-
-- Implemented CI/CD pipelines using Jenkins and GitLab CI; integrated unit tests; deployment frequency increased; release time cut by ~40%.
-- Containerized 12 legacy apps with Docker; created staging environments that mirror production; reduced environment drift.
-
-### Northwind Systems - DevOps Engineer
-2023-Present
-
-- Built automated provisioning scripts for development and staging with Ansible (basic); deployed Kubernetes in a limited capacity; improved reliability.
-- Implemented automated backups on AWS; established monitoring with Prometheus; reduced alert noise by 20%.
+- Automated development environments with shell scripts and Docker Compose, cutting setup time from days to hours.
+- Assisted with AWS onboarding and basic Terraform module usage; documented standard operating procedures for deployment pipelines.
+- Supported Linux system administration, monitoring, and log management; participated in on-call rotations and incident reviews.
 
 ## Education
 
-BSc in Information Systems, Greenfield University, 2014-2018
-
----
-
-# Sora Nkomo
-
-## Summary
-
-Senior DevOps Engineer with 12 years delivering scalable platforms across AWS and Azure. Expertise in automation, CI/CD, cloud migrations, and security engineering. Strong track record of cost optimization and reliability improvements. Currently addressing gaps in advanced Kubernetes governance and GitOps maturity; actively upskilling in OPA/Gatekeeper and container security.
-
-## Skills
-
-- AWS (EC2, S3, RDS, EKS) and Azure (VM, AKS)
-- Kubernetes: Advanced cluster administration; gaps in operators and GitOps governance
-- Terraform, Ansible
-- Jenkins, GitHub Actions
-- Helm, ArgoCD, Flux
-- Prometheus, Grafana, ELK
-- Python, Go
-- Security: IAM, VPC, encryption, Vault, secrets management
-
-## Experience
-
-### GlobalWave Technologies - Senior DevOps Engineer
-2014-2018
-
-- Migrated core services to containerized platforms; built monitoring; achieved 60% faster deployments and improved incident detection.
-
-### AuroraCloud - Lead Platform Engineer
-2018-2021
-
-- Directed cloud migration program from on-prem to AWS/Azure hybrid; redesigned CI/CD pipelines; improved release frequency to weekly; cost optimization initiatives reduced spend.
-
-### BlueNova Systems - Senior Platform Architect
-2021-Present
-
-- Architected enterprise platform with multi-region failover; implemented GitOps with ArgoCD; established cost governance and automated compliance scanning.
-- Note: currently addressing gaps in advanced Kubernetes operators and governance; actively training.
-
-## Education
-
-BSc Computer Science, University of Cape Town, 2009-2013
+- B.S. in Computer Science, University of Northfield, 2010–2014
+- Certifications: AWS Certified Solutions Architect – Associate (2021); Certified Kubernetes Administrator (CKA) (2022)

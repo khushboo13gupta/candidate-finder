@@ -1,56 +1,53 @@
-# Maya Novak
+# Mara Chen
 
 ## Summary
 
-Results-oriented Data Engineer with 5+ years of experience building scalable data pipelines, data lakes, and analytics platforms. Proficient in Python, SQL, Apache Spark, and Airflow, with hands-on work across Snowflake, AWS, and GCP. Known for delivering reliable ETL, improving data quality, and enabling data-driven decision making for product and marketing teams. Strong collaborator who aligns data solutions with business goals and can translate complex technical concepts for non-technical stakeholders. Growth focus areas include Kubernetes orchestration, Azure Synapse Analytics, and MLOps practices.
+Detail-oriented Data Engineer with 6 years of experience designing and implementing scalable data pipelines for analytics teams in e-commerce and SaaS environments. Proficient in Python, SQL, Spark, and SQL-based warehousing (Snowflake, Redshift); skilled in streaming with Kafka and batch ETL with Airflow. Known for improving data freshness, quality, and accessibility while collaborating with data scientists and business stakeholders. Strong track record of warehouse modernization and cost optimization. Seeking a mid-senior role to deepen cloud-native data platform skills and contribute to data governance. Growth areas include Kubernetes, Spark Structured Streaming, and MLOps deployment pipelines.
 
 ## Skills
 
-- Programming: Python, SQL, Bash
-- Data processing: Apache Spark / PySpark, Apache Beam (intro), Spark SQL
-- Orchestration and workflows: Apache Airflow, Dagster (basic)
-- Data storage and warehouses: Snowflake, Amazon S3, Google Cloud Storage, Redshift (casual use)
-- Databases: PostgreSQL, MySQL
-- Data modeling: Dimensional modeling, Star/Snowflake schemas
-- Streaming and messaging: Apache Kafka, Kafka Connect
-- Cloud platforms: AWS (S3, Glue, EMR), Google Cloud (BigQuery, Dataflow), Azure (limited exposure)
-- Data quality and governance: Great Expectations, dbt tests, basic lineage with Data Catalogs
-- Tools and platforms: dbt, Looker/Tableau, Airbyte (integration)
-- DevOps: Git, GitHub Actions, Docker
-- Gaps and focus areas: Kubernetes orchestration, Azure Synapse Analytics, ML Ops exposure
+- Languages: Python (expert), SQL (expert), Java (intermediate)
+- Data Processing: Spark (intermediate), Pandas (proficient)
+- Orchestration: Airflow (advanced), Prefect (basic)
+- Data Warehousing: Snowflake (advanced), Redshift (intermediate)
+- Data Streaming: Kafka (advanced), Kinesis (basic)
+- Cloud: AWS (advanced), GCP (intermediate)
+- Data Modeling: Dimensional modeling, Data Vault (basic)
+- Data Quality & Testing: Great Expectations (proficient), dbt (advanced)
+- Monitoring & Observability: Prometheus, Grafana (basic)
+- Tools & DevOps: dbt, Git, GitHub Actions
+- BI/Visualization: Tableau, Looker
+- Growth areas: Kubernetes, Spark Structured Streaming, MLOps deployment pipelines
 
 ## Experience
 
-### Orion Data Labs - Data Engineer
-Jan 2023 - Present
+### SigmaSoft Ltd. - Data Engineer
+2019 - 2021
 
-- Designed and maintained scalable data pipelines in Snowflake using Python and Airflow; supported marketing and product data, processing roughly 2–3 billion events per month.
-- Implemented a dbt-based transformation layer to ensure data consistency across analytics stores, cutting dataset lag by 6–8 hours and speeding dashboard delivery.
-- Built near-real-time dashboards by integrating Kafka streams with Spark Structured Streaming, achieving sub-minute latency for key product metrics.
-- Implemented a metadata catalog and lineage with an open-source data catalog, improving data discoverability and reducing time-to-insight for analysts.
+- Designed and implemented end-to-end ETL pipelines moving data from an on-prem Oracle source to Snowflake, enabling near-real-time analytics for marketing and product teams.
+- Reduced nightly load times by ~40% through incremental loading, partition pruning, and query optimization; implemented data quality checks with Great Expectations.
+- Built a lightweight CI/CD workflow for ETL deployments using GitHub Actions, improving release cadence and reducing incidents by 30%.
+- Collaborated with BI and data science teams to translate business requirements into scalable data models and dashboards.
 
-### Zenith Analytics - Senior Data Engineer
-Jun 2020 - Dec 2022
+### BrightPath Analytics - Senior Data Engineer
+2021 - 2023
 
-- Led cloud migration and modernization of 50+ pipelines from on-prem to a cloud-based data lake on AWS S3; introduced Airflow + dbt for orchestration and transformation, reducing maintenance overhead and costs by ~30%.
-- Implemented streaming KPIs using Kafka and Spark Structured Streaming to support real-time analytics, enabling more responsive product dashboards.
-- Established data quality automation with Great Expectations and CI-integrated tests; improved data reliability and reduced downstream issue rate by ~25%.
-- Mentored two junior engineers, introduced code reviews and standardized development patterns to accelerate team velocity.
+- Led migration from legacy batch ETL to Spark-based pipelines, standardizing transforms and enabling faster onboarding of new data sources.
+- Implemented streaming ingestion with Kafka and Spark Structured Streaming, delivering real-time dashboards for product and operations teams.
+- Achieved ~60% reduction in compute costs by restructuring clusters, caching, and optimizing job schedules; implemented auto-scaling and smarter partitioning.
+- Mentored two junior engineers; established coding standards, unit testing practices, and data quality frameworks to improve reliability.
 
-### Meridian Tech - Data Engineer
-Sept 2018 - May 2020
+### NovaTech Solutions - Data Engineer
+2023 - Present
 
-- Built batch ETL pipelines with Python and SQL Server to centralize data from multiple on-prem sources into a marketing data mart, enabling faster reporting in Tableau.
-- Developed incremental load strategies and watermarking to reduce nightly ETL runtimes from 8 hours to about 2.5 hours.
-- Designed and implemented a dimensional data model to support key marketing and sales dashboards; collaborated with business analysts to validate requirements.
-- Contributed to early-stage cloud exploration, laying groundwork for migration but with limited cloud-native tooling and governance in place.
+- Built a cloud-native data lake architecture on Snowflake, with dbt-driven transformations and a well-defined data contract with downstream teams.
+- Reduced data latency from hours to 5–10 minutes by parallelizing ingest, tuning Snowflake warehouses, and implementing incremental transforms.
+- Implemented robust monitoring and alerting using Prometheus and Grafana; created dashboards for data pipeline health, lineage, and quality metrics.
+- Introduced CI/CD for analytics pipelines (GitHub Actions) and standardized data governance practices; coordinated with security on IAM roles and data access controls.
+- Growth note: actively pursuing Kubernetes exposure and deeper MLOps integration to support deployment of data science artifacts.
 
 ## Education
 
-Northbridge Tech University — B.S. in Computer Science, 2014–2018
-- Minor: Statistics
-
-Certifications
-- AWS Certified Data Analytics – Specialty (2019)
-- Google Cloud Certified Professional Data Engineer (2021)
-- dbt Fundamentals (2022)
+- Bachelor of Science in Computer Science, University of Northwest, 2014–2018
+- Certifications: AWS Certified Data Analytics – Specialty (2020), SnowPro Core Certification (2022)
+- Relevant coursework: Distributed Systems, Database Design, Cloud Computing, Data Warehousing, Big Data Analytics

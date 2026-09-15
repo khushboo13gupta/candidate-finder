@@ -1,95 +1,48 @@
-# Ava Patel
+# Quinn Calder
 
 ## Summary
 
-A results-driven Frontend Engineer with 6 years of experience delivering accessible, high-performance web applications. Proficient in React, TypeScript, and design systems. Strong collaboration with product, design, and backend teams to ship scalable UI solutions and improve user experience.
+Quinn Calder is a frontend engineer with 5–7 years of experience delivering polished, accessible, and high-performance web applications. Proficient in React, TypeScript, and modern tooling, Quinn has a track record of shipping iterative features and leading UI improvement initiatives. Passionate about design systems, component libraries, and user experience, Quinn collaborates closely with product and design to balance speed and quality. Currently expanding testing coverage and GraphQL skills, while mentoring teammates and driving measurable impact.
 
 ## Skills
 
-- JavaScript (ES6+), TypeScript, HTML5, CSS3
-- React, Next.js, Redux Toolkit, GraphQL, REST
-- Vue (basic) and multi-framework awareness
-- Styling: CSS-in-JS (styled-components, emotion), Tailwind CSS, SASS
-- Build tooling: Webpack, Vite, ESLint, Prettier
-- Testing: Jest, React Testing Library, Cypress, Storybook
-- Accessibility (ARIA), responsive design, performance tuning
-- Design systems, component libraries, design tokens
-- Version control, CI/CD (GitHub Actions), DevOps basics
+- Frontend: React, Next.js, TypeScript, JavaScript (ES6+), Redux Toolkit, Zustand
+- UI/Styling: HTML5, CSS3, SASS, CSS-in-JS (styled-components), design systems, component libraries
+- Accessibility: WCAG 2.1 AA, semantic HTML, keyboard navigation, ARIA patterns
+- Testing: Jest, React Testing Library, Cypress
+- Performance: Web Vitals, Lighthouse, code-splitting, lazy loading, performance budgeting
+- Tools & workflows: Webpack, Vite, Babel, ESLint, Prettier, Storybook, GitHub Actions
+- Data & networking: REST, GraphQL (Apollo Client)
+- Collaboration: Git, JIRA, Figma, cross-functional teamwork
+- Soft focus: Mentoring, code reviews, pragmatic prioritization
 
 ## Experience
 
-### Acme FinTech - Senior Frontend Engineer
-2020 - Present
+### NovaGrid Solutions - Frontend Developer
+2019–2021
 
-- Led migration from legacy templates to React/TypeScript, reducing bundle size by 28% and improving load times.
-- Built and maintained a design system and component library in Storybook used by 6 squads; increased development velocity by 35%.
-- Implemented Next.js SSR for marketing and product pages, boosting SEO and initial paint times.
-- Achieved Lighthouse scores: performance 96, accessibility 100; introduced automated performance budgets.
-- Mentored 3 junior developers; established code-review rituals and a formal onboarding program.
+- Migrated a legacy admin dashboard from jQuery to React + TypeScript, cutting bundle size by 40% and significantly improving time-to-interaction.
+- Created a shared component library and design tokens, enabling UI consistency across multiple apps and reducing frontend development time by about 25%.
+- Partnered with accessibility specialists to implement WCAG AA-compliant interfaces; introduced automated ARIA checks and accessibility reviews in the sprint process.
 
-## Education
+### BrightDesk - Senior Frontend Engineer
+2021–2023
 
-Bachelor of Science in Computer Science, University of Northbridge, 2010-2014
+- Led a full UI refactor of the core product using React, Redux Toolkit, and TypeScript; introduced code-splitting and SSR-friendly patterns, reducing initial paint time by ~32% on key flows.
+- Built and maintained an internal component library with Storybook; established theming, tokens, and guidelines that accelerated design-system adoption across products.
+- Implemented end-to-end tests with Cypress and unit tests with RTL/Jest; raised test coverage from 18% to 62% and mentored two junior engineers to contribute more effectively.
 
+### AstraForge - Lead Frontend Engineer
+2023–Present
 
-# Liam Chen
-
-## Summary
-
-A mid-level Frontend Engineer with 3 years of experience building dashboards and consumer web apps. Proficient in React and Vue basics; strong UI development and collaboration skills. Actively expanding TypeScript usage and automated testing to raise code quality.
-
-## Skills
-
-- JavaScript (ES6+), TypeScript (growing proficiency)
-- React, Vue (basic)
-- HTML5, CSS3, SASS, Tailwind
-- REST, GraphQL
-- Testing: Jest, React Testing Library, Cypress (beginner)
-- Build/tools: Webpack, Vite, Git, GitHub Actions
-- Accessibility basics, responsive design
-
-## Experience
-
-### BrightLabs - Frontend Engineer
-2023 - Present
-
-- Built a real-time analytics dashboard in React with TypeScript; reduced data fetch latency by 40% via pagination and caching strategies.
-- Implemented a reusable component library and design tokens; improved UI consistency across apps.
-- Skill gap: TS adoption still evolving and unit test coverage around 15%; actively upskilling in Jest and Playwright.
-- Collaborated with backend to optimize GraphQL queries; introduced a lightweight CI workflow for deployments.
+- Spearheaded the migration to Next.js 13 App Router and server components for marketing and product apps; improved SEO and load performance, achieving Lighthouse scores above 95.
+- Architected design tokens and a scalable styling strategy (CSS-in-JS) to support multi-brand deployments with consistent UX.
+- Integrated a GraphQL data layer using Apollo Client alongside REST endpoints; actively addressing gaps in GraphQL schema design and backend performance profiling, and leading internal upskilling sessions to close those gaps.
 
 ## Education
 
-BSc Information Technology, Metro Tech University, 2016-2020
+B.S. in Computer Science, Ridgeview University, 2015–2019
 
+- Relevant coursework: Human-Computer Interaction, Algorithms, Web Technologies, Data Structures
+- Activities: Open-source contribution club, web accessibility initiative
 
-# Mira Ortega
-
-## Summary
-
-Senior Frontend Engineer with 9+ years of experience leading frontend architecture, mentoring engineers, and delivering scalable, accessible user interfaces. Expert in React ecosystems, design systems, and performance optimization. Proven track record of cross-functional leadership and strategic frontend roadmaps.
-
-## Skills
-
-- JavaScript (ES2020+), TypeScript, HTML5, CSS3
-- React, Next.js, Angular (legacy), GraphQL, REST
-- Design Systems, Storybook, design tokens
-- CSS-in-JS (styled-components, emotion), Tailwind
-- SSR/CSR, Webpack, Vite
-- Testing: Jest, React Testing Library, Playwright
-- Accessibility (WCAG), responsive/adaptive design
-- CI/CD, Git, code reviews, mentoring
-
-## Experience
-
-### Nebula Labs - Senior Frontend Engineer
-2016 - Present
-
-- Led frontend architecture across 3 product lines; designed and maintained a shared design system, reducing duplication and bugs by 40%.
-- Migrated multiple apps from legacy frameworks (AngularJS) to React + TypeScript; introduced Next.js SSR for marketing and product sites, boosting SEO and initial load by 45%.
-- Implemented comprehensive accessibility features (ARIA roles, keyboard navigation), achieving near-perfect Lighthouse scores and improved user reach.
-- Mentored 5 engineers, established a frontend guild, and partnered with Design and Product to drive user-centric enhancements and faster delivery.
-
-## Education
-
-Bachelor of Science in Computer Science, University of Coastal Tech, 2008-2012

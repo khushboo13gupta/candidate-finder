@@ -1,133 +1,50 @@
-# Arielle Kim
+# Avery Calder
 
 ## Summary
 
-Seasoned Data Engineer with about 9 years of experience designing and delivering scalable data platforms. Expertise across the full data pipeline: ingestion, storage, modeling, and analytics consumption. Strong in cloud-first architectures, streaming, and data quality. Proven track record leading cross-functional teams to ship reliable data products that drive business outcomes.
+Data Engineer with 8+ years designing robust data platforms, building scalable ETL/ELT pipelines, and enabling data-driven decision making. Skilled in Python, SQL, and modern cloud-native analytics stacks. Proficient with Airflow, dbt, and Snowflake, with hands-on experience migrating on-premises to cloud data warehouses and implementing streaming ingestion for near-real-time dashboards. Notable achievements include cutting ETL runtimes by up to 60%, simplifying data models for analytics teams, and delivering governance and observability across pipelines. Spark Structured Streaming is a knowledge area I’m building toward; I’m actively expanding with Flink and Kinesis to support ongoing modernization.
 
 ## Skills
 
 - Languages: Python, SQL
-- Data processing: Apache Spark, PySpark, Kafka
-- Cloud: AWS (S3, Glue, Redshift, Lambda, IAM)
-- Data warehousing: Snowflake, Redshift
-- Orchestration: Airflow
-- Modeling & tooling: dbt, ER/Dim modeling, Star/Snowflake schemas
-- Data quality & observability: Great Expectations, Prometheus, Grafana
-- CI/CD: Git, Docker, Terraform
-- Data formats & streaming: Parquet, Avro, Kafka Streams
-- Governance: Lightweight data catalogs, lineage awareness
+- Orchestration: Apache Airflow
+- Data Modeling: dimensional modeling, star schemas
+- Data Warehouses/Data Lakes: Snowflake, Redshift, Delta Lake
+- Data Integration/ETL: dbt, ETL/ELT pipelines, Airbyte
+- Streaming: Kafka, Apache Flink, AWS Kinesis
+- Cloud and Infra: AWS (S3, Lambda, Glue), Terraform, GitHub Actions
+- Data Quality/Observability: Great Expectations, data contracts
+- CI/CD and Governance: IaC, automated deployments, runbooks
+- Spark: Spark (foundational), Spark Structured Streaming (gap; actively expanding)
 
 ## Experience
 
-### NebulaTech - Lead Data Engineer
-2022-Present
+### Northbridge Analytics - Data Engineer
+Mar 2018 – Dec 2020
 
-- Designed and led a cloud-native data platform for marketing analytics; migrated 85% of batch workloads to Snowflake with near-zero downtime.
-- Implemented a streaming pipeline using Kafka and Spark Structured Streaming, reducing latency on critical dashboards from minutes to under 30 seconds.
-- Built a robust data quality framework with Great Expectations and automated lineage tagging; improved trust scores by 40%.
-- Introduced dbt-based transformations and CI/CD for data pipelines, cutting deployment time by 55% and improving traceability.
+- Designed and implemented batch ETL pipelines using Python (pandas) and SQL to ingest 1–2 TB/day from on-prem sources into a central warehouse, cutting load times by 25%.
+- Built Airflow DAGs for nightly ingestion, added retry strategies and alerting; reduced failed runs by 20%.
+- Implemented data quality checks using Great Expectations, improving data accuracy for dashboards used by marketing and finance.
+- Collaborated with analytics teams to define dimensional models and star schemas, delivering a solid foundation for dashboards and ad-hoc analysis.
 
-### Northstar Analytics - Senior Data Engineer
-2019-2022
+### BluePeak Technologies - Data Engineer
+Jan 2021 – Aug 2023
 
-- Built a data lakehouse on AWS (S3, Glue, Redshift) supporting 4+ TB/day of ingestion from operational systems.
-- Created end-to-end pipelines for customer analytics, including metadata-driven ingestion, schema evolution handling, and incremental loading.
-- Led a cross-functional initiative to reduce data stack fragmentation; standardized tooling and documentation, increasing reusability by 30%.
-- Achieved 3x improvement in batch processing throughput by refactoring ETL jobs and parallelizing workloads.
+- Migrated data warehouse to Snowflake; designed dbt models; reorganized data marts; improved query performance by ~40% and simplified ongoing maintenance.
+- Implemented streaming ingestion with Kafka and Spark micro-batch processing to support near-real-time dashboards; scaled to tens of thousands of events per second.
+- Implemented CI/CD for data pipelines using GitHub Actions and Terraform; automated resource provisioning and schema evolution, reducing deployment time by ~60%.
+- Mentored one junior engineer and contributed to data governance programs; documented runbooks and data catalog entries.
 
-### Skyline Data Lab - Data Engineer
-2016-2019
+### Asterion Cloud Systems - Senior Data Engineer
+Sep 2023 – Present
 
-- Implemented Python- and SQL-based ETL pipelines migrating on-prem data into cloud storage, enabling rapid analytics for product teams.
-- Refined data models and implemented star-schema designs for dimensional reporting; reduced query times on core dashboards by 25%.
-- Automated monitoring and alerting for data pipelines, improving incident response times by 40%.
-
-## Education
-
-B.Sc. in Computer Science, Seoul Tech University, Seoul, South Korea (2012-2016)
-
----
-
-# Lucas Romero
-
-## Summary
-
-Mid-level Data Engineer with ~5 years of experience building reliable ETL/ELT pipelines and data models. Strong in SQL, Python, and orchestration, with hands-on SQL-based analytics and BI support. Seeking to deepen cloud data warehouse and streaming capabilities; open to extended responsibilities and mentorship roles.
-
-## Skills
-
-- Python, SQL
-- Airflow, DBT (basic)
-- Cloud: AWS basics; Google Cloud basics
-- Data warehousing: BigQuery, PostgreSQL
-- Modeling: dimensional modeling, staging areas
-- Data quality: basic validation, unit tests
-- Containers: Docker
-- Versioning & CI/CD: Git
-
-## Experience
-
-### BluePeak Analytics - Data Engineer
-2024-Present
-
-- Built and maintained ETL pipelines for product analytics using Python and SQL; integrated with BigQuery for centralized reporting.
-- Implemented batch orchestration with Airflow and added basic data quality checks to prevent regressions.
-- Collaborated with data analysts to deliver dashboards and ad-hoc reports, improving data accessibility across teams.
-
-### CloudBridge - Senior Data Engineer
-2022-2024
-
-- Migrated several reporting jobs from on-prem to cloud data stores; established incremental loading and time-travel capabilities.
-- Refined data modeling for marketing and sales datasets; reduced data preparation time for analysts by ~30%.
-- Implemented monitoring on critical pipelines; introduced alerting to reduce outages and improve reliability.
-
-### Vertex Labs - Data Engineer
-2019-2022
-
-- Designed Python-based ETL processes and SQL transformations to feed BI dashboards.
-- Implemented data quality checks and basic unit tests; helped reduce data defects in nightly loads.
-- Participated in migrations to cloud storage and transition to more maintainable workflows, though with limited streaming projects.
+- Led modernization: migrated on-prem data platform to Snowflake on AWS; built a data lakehouse with Delta Lake; standardized models with dbt; ingestion throughput doubled.
+- Built real-time streaming pipelines with AWS Kinesis Data Streams and Apache Flink for streaming analytics; improved incident response time by 30%.
+- Implemented data quality framework and observability with open-source tooling; created reusable templates and governance dashboards; mentored two junior engineers.
+- Drove cloud cost optimization and security compliance across pipelines; introduced CI-tested release pipelines and incident postmortems for continual improvement.
 
 ## Education
 
-B.S. in Information Systems, Atlantic Coast University, Portland, USA (2014-2018)
-
----
-
-# Priya Singh
-
-## Summary
-
-Associate Data Engineer with 3 years of experience focusing on SQL-driven data workflows and reporting. Strong problem-solving and collaboration skills, but still building expertise in cloud data platforms and orchestration. Eager to expand capabilities in streaming, cloud warehouses, and large-scale data modeling.
-
-## Skills
-
-- SQL Server, T-SQL
-- Python (pandas), basic scripting
-- SSIS, basic ETL tooling
-- On-prem data marts, dimensional modeling
-- Visualization: Power BI, Tableau
-- Version control: Git
-- Windows/Linux familiarity
-
-Gaps to address: limited cloud experience (AWS/GCP), no Spark, no Airflow, minimal streaming experience, modest exposure to modern data tooling.
-
-## Experience
-
-### QuantumForge - Data Engineer
-2023-2025
-
-- Designed ETL processes using SSIS and SQL Server to support marketing analytics; delivered dashboards for leadership with Power BI.
-- Implemented data quality checks and data lineage for critical data sources.
-- Collaborated with analytics teams to optimize query performance on large relational datasets.
-
-### VertexFlow - Associate Data Engineer
-2025-Present
-
-- Supports on-prem data migrations and incremental loads from operational systems.
-- Built basic reporting pipelines with SQL and Python, enabling timely executive dashboards.
-- Working to introduce cloud-based storage and orchestration; currently limited by lack of cloud tooling in the stack.
-
-## Education
-
-B.Tech in Information Technology, Sunrise Institute of Technology, Mumbai, India (2015-2019)
+- B.S. in Computer Science, University of Northfield, 2014–2018
+- AWS Certified Data Analytics – Specialty, 2022
+- SnowPro Core Certification, 2023

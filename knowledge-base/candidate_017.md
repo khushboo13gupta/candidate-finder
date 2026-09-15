@@ -1,56 +1,54 @@
-# Nova Solis
+# Maya Singh
 
 ## Summary
 
-Results-driven Python developer with 6+ years of experience building scalable backend services, data pipelines, and REST APIs. Proficient in Django, Flask, and FastAPI; strong SQL modeling with PostgreSQL and MySQL; hands-on in cloud deployments, Docker, and CI/CD. Notable for improving API performance, reducing latency, and delivering robust data workflows. Collaborative team player who can mentor juniors and align engineering work with product needs. Skill gap note: Kubernetes experience is limited to small, non-production projects; frontend and infrastructure as code skills are developing.
+Results-oriented Python developer with 6 years of experience building scalable backend systems and data-first applications. Proficient in Django, FastAPI, and Flask; strong with PostgreSQL, Redis, and ETL pipelines. Led a migration from monolith to microservices and improved API latency and reliability while cutting hosting costs. Known for mentoring teammates, delivering clean test coverage, and collaborating with product teams to translate requirements into robust software. Growth areas include deepening Kubernetes expertise, frontend fundamentals, and advanced cloud architecture design.
 
 ## Skills
 
-- Python, SQL, Bash
-- Django, Flask, FastAPI
-- RESTful APIs, GraphQL (basic)
-- PostgreSQL, MySQL
-- Pandas, NumPy
-- Redis, Celery
-- Docker, Git, GitHub Actions
-- AWS (EC2, S3, RDS, Lambda), basic Terraform
-- Apache Airflow, Kafka, RabbitMQ
-- Prometheus, Grafana
-- Linux (Ubuntu)
-- Testing: pytest, unittest
-- Kubernetes: basic familiarity; limited production exposure
-- Frontend basics: React (intro-level)
+- Languages: Python (3.8+), SQL, Bash
+- Frameworks: Django, FastAPI, Flask
+- Data & ETL: PostgreSQL, Redis, SQLAlchemy, Pandas, Apache Airflow
+- API & Microservices: RESTful APIs, microservices architecture, message queues (RabbitMQ, Kafka)
+- DevOps & CI/CD: Docker, GitHub Actions, CircleCI, basic Kubernetes
+- Cloud & Infra: AWS (EC2, S3, Lambda), Terraform basics
+- Testing & Quality: pytest, unittest, test-driven development
+- Monitoring & Tools: Prometheus, Grafana, ELK stack, Git, Jira
+- Growth areas / gaps: Advanced Kubernetes operations, frontend (React), GraphQL, scalable IaC practices
 
 ## Experience
 
-### SoftForge Technologies - Python Developer
-2016 – 2019
+### NovaTech Solutions — Senior Backend Engineer
+2019–2021
 
-- Built Django-based APIs for a multi-tenant e-commerce platform handling 2k+ daily requests; implemented Redis caching that cut average response times by ~40%.
-- Created and maintained a CI/CD pipeline with GitHub Actions, increasing deployment frequency from monthly to weekly.
-- Developed data ETL pipelines using Pandas, loading cleaned data into PostgreSQL; automated nightly jobs reducing manual data-grooming effort by ~60%.
-- Implemented extensive unit and integration tests with pytest; achieved 80%+ test coverage and improved release reliability.
-- Collaborated with frontend teams to standardize API contracts; contributed to lightweight React components for admin tools.
+- Designed and implemented a suite of Django/RESTful microservices with PostgreSQL backends, delivering a 40–60% reduction in average API latency.
+- Implemented asynchronous task processing with Celery, improving throughput for user-facing endpoints by enabling background work without blocking requests.
+- Introduced a comprehensive testing strategy (pytest, integration tests) that raised test coverage from ~40% to ~85% and reduced regression defects by 30%.
+- Implemented caching with Redis and optimized data access patterns, resulting in a 50% decrease in database query load during peak times.
+- Created CI/CD pipelines with GitHub Actions; automated deployments to staging and production, enabling faster release cycles and reliable rollbacks.
+- Mentored two junior developers, providing code reviews, pairing sessions, and onboarding guidance.
 
-### Nebula Labs - Python Developer
-2019 – 2022
+### BrightPath Analytics — Senior Software Engineer
+2021–2023
 
-- Led migration of internal services from Flask to FastAPI, boosting throughput and reducing latency by ~30%.
-- Designed and built data ingestion and processing pipelines using Apache Airflow; implemented data quality checks and alerting.
-- Containerized microservices with Docker and deployed on AWS ECS; introduced Prometheus/Grafana dashboards for end-to-end observability.
-- Implemented event-driven communication using RabbitMQ and background processing with Celery; improved fault tolerance and task retries.
-- Mentored two junior developers; refactored legacy modules and established clearer code reviews, cutting maintenance time.
+- Led the design and development of a data ingestion and processing pipeline using Apache Airflow, handling multi-terrory DAGs and idempotent ETL jobs.
+- Built a scalable data warehouse layer on PostgreSQL with optimized schemas, indices, and materialized views, enabling near real-time querying over hundreds of millions of rows.
+- Implemented data quality checks and validation steps, improving data reliability for downstream analytics and dashboards.
+- Deployed services to a Kubernetes cluster (initially with limited Kubernetes experience) and authored Helm charts to simplify deployments; helped the team mature its containerization and orchestration practices.
+- Collaborated with data scientists to operationalize feature pipelines and model deployment workflows, bridging backend systems with analytical workloads.
+- Initiated cost-conscious architecture reviews that reduced compute and storage costs by ~20% quarter-over-quarter.
 
-### Orbital Analytics - Senior Python Developer, Backend Team Lead
-2022 – Present
+### CloudForge Labs — Lead Backend Engineer
+2023–Present
 
-- Architected and delivered microservices with FastAPI, backed by PostgreSQL and Alembic for schema migrations; wired Kafka for event streams.
-- Led a 4-person backend squad; defined coding standards, review processes, and on-call rotations to improve reliability.
-- Implemented CI/CD with GitHub Actions and Docker-based deployments to AWS Fargate; established scalable, maintainable release practices.
-- Optimized critical endpoints, reducing API latency by ~50% through query optimization and Redis caching; lowered error rate by ~60%.
-- Added GraphQL support for internal tooling with a basic schema; Kubernetes exposure remains limited to small non-production projects, with plans for broader adoption.
+- Spearheaded a migration from a monolithic backend to a modern microservices architecture, delivering an API gateway and event-driven communication with Kafka.
+- Implemented observability and tracing (Prometheus/Grafana, structured logging) to improve incident response and system health monitoring.
+- Built and deployed AWS-based services (Lambda, S3, DynamoDB) with Infrastructure as Code basics in Terraform, enabling repeatable environments and faster onboarding.
+- Optimized data access patterns and introduced batch processing improvements, leading to a 25% reduction in monthly maintenance time for critical services.
+- Drove CI/CD adoption with GitHub Actions, enabling automated testing, security checks, and blue-green deployment strategies.
+- Mentored junior developers and conducted knowledge-sharing sessions; established coding standards and review practices to raise overall code quality.
 
 ## Education
 
-- Crescent Ridge University — B.S. in Computer Science, 2016
-- AWS Certified Solutions Architect – Associate, 2021
+- B.Tech in Computer Science, Indus Institute of Technology, 2014–2018
+- AWS Certified Solutions Architect – Associate (in progress)

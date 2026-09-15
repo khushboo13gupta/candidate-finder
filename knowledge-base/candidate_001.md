@@ -1,42 +1,52 @@
-# Nova Calderon
+# Nova Reed
 
 ## Summary
 
-Nova Calderon is a Java backend engineer with seven years of hands-on experience delivering scalable, resilient services. She specializes in designing robust RESTful APIs, building microservices, and optimizing performance in cloud environments. Proficient in Java 8–17, Spring Boot, Spring Cloud, and Hibernate, she has led monolith-to-microservice migrations, implemented event-driven architectures with Kafka, and delivered CI/CD pipelines that dramatically accelerate deployment cycles. Adept at collaborating with product, frontend, and SRE teams, she emphasizes testing, observability, and maintainability. Currently seeking a backend-focused role to drive reliability and fast iteration.
+Java Backend Engineer with 6 years of hands-on experience building scalable microservices and RESTful APIs. Proficient in Spring Boot, Spring Cloud, and data modeling with PostgreSQL and MongoDB. Strong in asynchronous messaging (Kafka), containerization (Docker), and cloud deployments (AWS). Skilled at designing reliable architectures, improving performance, and implementing CI/CD pipelines. Areas for growth include security engineering practices, large-scale Kubernetes operations, and GraphQL adoption.
 
 ## Skills
 
-- Programming and frameworks: Java 8–17, Spring Boot, Spring MVC, Spring Cloud, Hibernate/JPA, Spring Batch
-- Architecture and patterns: Microservices, API design, Domain-Driven Design (DDD), CQRS, event-driven architectures
-- Messaging and data: Apache Kafka, RabbitMQ, PostgreSQL, MySQL, Redis, Elasticsearch
-- Cloud and containers: AWS (EC2, S3, RDS, CloudFormation), Docker, Kubernetes (basic to intermediate)
-- CI/CD and testing: Jenkins, GitLab CI, GitHub Actions; JUnit 5, Mockito, Testcontainers, OpenAPI/Swagger
-- Observability and security: Prometheus, Grafana, ELK stack; JWT/OAuth2, OpenID Connect, distributed tracing (OpenTelemetry)
-- Tools and processes: Git, Jira, Confluence, SonarQube, code reviews, pair programming
-- Growth areas / gaps: Kubernetes proficiency and cloud-native security patterns are ongoing; exploring serverless patterns and deeper OpenTelemetry instrumentation
+- Java: 8–17, concurrent programming, performance tuning
+- Frameworks: Spring Boot, Spring Cloud, Hibernate, JPA
+- APIs: REST, gRPC, OpenAPI
+- Architecture: Microservices, event-driven, service discovery
+- Messaging: Apache Kafka, RabbitMQ
+- Data: PostgreSQL, MySQL, MongoDB, Redis
+- Cloud/Infra: AWS (EC2, RDS, S3, Lambda), Docker, Kubernetes
+- CI/CD: GitHub Actions, Jenkins, Maven, Gradle
+- Observability: Prometheus, Grafana, OpenTelemetry, ELK
+- Security: OAuth 2.0, OpenID Connect, JWT
+- Testing: JUnit, Mockito, TestNG
+- Tools: Terraform, Git, Agile methodologies, pair programming
+- Gaps/Development: GraphQL (basic familiarity), Kubernetes scale operations, security engineering practices
 
 ## Experience
 
-### NovaTech Labs - Senior Java Backend Engineer
-2019 - 2023
+### Brightstream Innovations - Backend Developer
+January 2019 – December 2020
 
-- Led the migration of a multi-year monolithic system to a microservices architecture using Spring Boot and Spring Cloud, delivering a stable set of services for orders, inventory, and billing.
-- Implemented an event-driven workflow with Apache Kafka, enabling asynchronous processing, improved resilience, and better decoupling between services; reduced end-to-end latency by approximately 65%.
-- Built an API gateway and service discovery layer; introduced distributed tracing and centralized logging (OpenTelemetry, Prometheus, Grafana, ELK), achieving 99.95% uptime and faster incident triage.
-- Created a comprehensive CI/CD pipeline with Jenkins and GitLab CI, Dockerized services, and automated deployments to AWS EKS; deployment frequency increased from monthly to weekly.
-- Optimized data access and performance: introduced read/write databases with appropriate sharding strategies, tuned Hibernate fetch plans, and added Redis caching; end-user response times improved by 40–55% under load.
-- Mentored two junior engineers, established code review standards, and implemented test automation (JUnit 5, Mockito, Testcontainers) that boosted test coverage to ~85%.
+- Built and maintained RESTful APIs in Java Spring Boot (Java 8/11), reducing average response times by up to 40%.
+- Designed and implemented ETL data pipelines and migrations, ensuring data integrity across microservices.
+- Implemented CI/CD pipelines with Jenkins and Maven, cutting build and deploy times by ~30%.
+- Collaborated with QA and frontend teams to define API contracts and automated tests.
 
-### NorthWind Analytics - Backend Developer
-2016 - 2019
+### NovaTech Solutions - Backend Engineer
+January 2021 – March 2024
 
-- Developed core order processing REST APIs with Spring Boot and Hibernate, backed by PostgreSQL; implemented efficient queries, pagination, and caching to improve response times.
-- Built batch processing components with Spring Batch and Quartz for nightly data imports/exports; ensured data integrity and idempotent job execution.
-- Implemented a message-driven workflow using RabbitMQ to coordinate warehouse and finance microservices; reduced manual reconciliation efforts.
-- Worked closely with product and frontend teams to design clear OpenAPI specifications; improved API discoverability and reduced integration issues.
-- Enforced quality through unit/integration testing and code reviews; contributed to a lighter maintenance burden and fewer regression issues.
+- Led migration from monolith to microservices using Spring Boot, Spring Cloud Config, and Eureka; reduced deployment risk and boosted team velocity.
+- Implemented asynchronous event-driven communication with Apache Kafka; improved data availability and ensured >=99.9% message delivery.
+- Designed data models for PostgreSQL and MongoDB; optimized queries with indexing, reducing latency by ~25%.
+- Built CI/CD pipelines with GitHub Actions and Jenkins; integrated automated tests and security scans.
+
+### CloudPulse Inc. - Senior Backend Engineer
+April 2024 – Present
+
+- Architected and deployed scalable microservices on Kubernetes in AWS; throughput up by 35% and latency down by 20%.
+- Implemented distributed tracing with OpenTelemetry and centralized logging with the ELK stack; MTTR decreased by ~60%.
+- Implemented secure API gateway with OAuth2/OIDC, JWT validation, and rate limiting; integrated with AWS Cognito.
+- Mentored two junior engineers; introduced code-review best practices and performance-focused profiling to improve velocity.
 
 ## Education
 
-- Lakeshore University — Bachelor of Science in Computer Science, 2012–2016
-
+- Bachelor of Science in Computer Science, Eastview University, 2018
+- Relevant coursework: Distributed Systems, Database Design, Cloud Computing

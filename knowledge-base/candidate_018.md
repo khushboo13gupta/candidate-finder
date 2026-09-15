@@ -1,47 +1,51 @@
-# Jordan Kline
+# Nova Lark
 
 ## Summary
 
-Jordan Kline is a data engineer with 6 years of experience building scalable data pipelines for analytics and machine learning workflows. Proficient in Python, SQL, and Apache Spark, with hands-on work across AWS and Google Cloud ecosystems. Known for delivering reliable ETL/ELT processes, strong data quality practices, and cross-functional collaboration with product, analytics, and data science teams. Currently addressing gaps in Kubernetes and large-scale Snowflake deployments while expanding proficiency in production-grade orchestration and cloud-native patterns.
+Seasoned data engineer with 9 years of experience building scalable data platforms across fintech and media. Expertise in Python, SQL, and cloud-based ELT/ETL pipelines, data warehousing, and batch plus streaming processing. Proven track record delivering reliable data infrastructure that accelerates BI, analytics, and product insights. Strong collaborator with product, analytics, and governance teams; committed to data quality, monitoring, and reproducible pipelines. Notable skill gaps include limited Snowflake experience and only foundational exposure to Spark Structured Streaming, with active growth plans to close them.
 
 ## Skills
 
-- Languages: Python (expert), SQL (expert), Scala (intermediate)
-- Data Processing: Apache Spark (advanced), Apache Airflow (advanced), Kafka (intermediate)
-- Data Warehousing/Storage: Redshift (advanced), BigQuery (intermediate), Snowflake (limited)
-- Cloud: AWS (S3, Glue, Lambda, EMR), Google Cloud Platform (BigQuery, Dataflow), Azure (basic)
-- Modeling & Transformation: dbt, Dimensional modeling, Data Vault awareness
-- Data Quality & Governance: Great Expectations, Amundsen (basic), Deequ (basics)
-- Orchestration & CI/CD: Apache Airflow, GitHub Actions, Docker
-- Monitoring & Observability: Prometheus, Grafana
-- Databases: PostgreSQL, MySQL
-- Other: Linux, Bash, version control (Git)
-- Gaps: Kubernetes (limited experience), Snowflake multi-region deployments (limited)
+- Languages: Python, SQL, Bash
+- Data Processing: PySpark (batch), SQL-based ETL/ELT, Spark (limited exposure to Structured Streaming)
+- Orchestration: Apache Airflow, Dagster (familiarity)
+- Data Warehousing / Lakes: Amazon Redshift, Snowflake (intermediate with gaps), PostgreSQL; Amazon S3; Glue Data Catalog
+- Streaming / Real-time: Kafka, Kinesis (batch-oriented use in practice); Spark micro-batch approach
+- Cloud / Tools: AWS (EC2, S3, Glue, Redshift), basic GCP concepts; Docker; Git
+- Data Modeling & Quality: Dimensional modeling, data vault concepts, Great Expectations, dbt (basic adoption)
+- Observability / Governance: Airflow UI, data lineage awareness, monitoring dashboards
+- Soft skills: cross-functional collaboration, stakeholder communication, documentation, mentoring
 
 ## Experience
 
-### NovaGrid Solutions - Data Engineer
-Jan 2022 – Present
+### CrescentByte Media - Data Engineer
+Jan 2024 - Present
 
-- Spearheaded the migration of a core analytics warehouse from on-prem to AWS Redshift and an S3-based data lake, designing end-to-end pipelines with Python, SQL, and Spark on EMR. Enabled faster onboarding of new data sources and reduced data latency for reporting by 30–40%.
-- Implemented streaming and batch ETL using Apache Airflow; introduced data quality gates with Great Expectations and a dbt transformation layer for analytics marts. Containerized jobs with Docker and orchestrated them via Airflow, reducing ETL runtimes by ~40% and improving reliability to 99.95%.
-- Built a robust data observability stack with Prometheus and Grafana dashboards; established costing controls and auto-scaling rules for data processing clusters, driving a 15–20% reduction in cloud spend while maintaining performance.
+- Designed and implemented a cloud-native ELT pipeline ingesting 50M+ events per day from mobile and web apps into a central data lake on AWS S3, using PySpark on EMR; end-to-end latency reduced from 20 minutes to 7 minutes.
+- Implemented CDC via Debezium and built Airflow DAGs for incremental loads, improving data availability to BI environments by 99.9%.
+- Established data quality checks with Great Expectations and a lightweight testing framework; reduced failed runs by ~30% and improved issue detection pre-load.
+- Created modular, reusable pipeline templates and documentation, accelerating new data source onboarding by ~40% and standardizing development practices.
+- Mentored two junior engineers, promoted better logging, error handling, and job recovery strategies.
 
-### NorthPeak Analytics - Data Engineer
-Jun 2019 – Dec 2021
+### Brightline Analytics - Senior Data Engineer
+Jun 2019 - Dec 2023
 
-- Created batch ETL pipelines in Python, orchestrated with Airflow, and designed a data lake on S3 to consolidate multiple source systems. Implemented incremental loads and strong data quality checks, which reduced data repair time by 50%.
-- Migrated reporting workloads to Redshift and developed dimensional models to support executive dashboards and self-serve analytics. Improved query performance by 35–40% and partnered with the data science team to prototype feature engineering pipelines for ML models.
-- Promoted best practices in governance and metadata; integrated data lineage tooling and a lightweight catalog (Amundsen basics) to improve discoverability for analysts and data scientists.
+- Migrated from on-prem ETL to a cloud-based ELT architecture on AWS; built a data lake on S3 with Glue Data Catalog and a unified data model across three domains, driving a 35% reduction in operational costs.
+- Built streaming and near-real-time analytics using Kafka with batch micro-batching in Spark; enabled real-time dashboards for product and marketing stakeholders; established alerting and SLA dashboards.
+- Introduced dbt workflow for modeling and data lineage; implemented data quality gates and versioned artifacts, improving trust and repeatability in analytics.
+- Implemented CI/CD for data pipelines and containerized ETL tasks with Docker; developed internal playbooks and templates that reduced onboarding time for new engineers by ~25%.
+- Led a small center of excellence, providing mentorship and contributing to a data-gov roadmap to improve data stewardship and cataloging.
 
-### Independent Consultant (Freelance) - Data Engineering
-Jan 2018 – May 2019
+### BluePeak Solutions - Data Engineer
+Jan 2016 - May 2019
 
-- Worked with small to mid-size clients to scope PoCs for data platforms, delivering end-to-end prototypes using PySpark, SQL, and BI dashboards. Demonstrated value with rapid turnaround on MVPs, but several engagements did not transition to full-scale production deployments, illustrating skill gaps in productionizing data pipelines and managing end-to-end ops at scale.
-- Built proof-of-concept streaming and batch pipelines and helped clients articulate data requirements, governance needs, and monitoring plans. Documented architectures and handover packages to support client adoption, though long-term deployment continuity varied by project.
+- Designed relational data models and star schemas for analytics; built Python- and SQL-driven ETL jobs to populate data marts used by finance and marketing teams.
+- Optimized query performance and storage layout; implemented indexing, partitioning, and incremental loads to support growing analytics workloads.
+- Created basic CI for ETL pipelines and introduced version control practices; collaborated with QA to implement end-to-end testing and observability into job runs.
+- Collaborated with data analysts to translate business requirements into robust, scalable data pipelines; documented data dictionary and lineage for key domains.
 
 ## Education
 
-- B.S. in Computer Science, Ridgeview University, 2014–2018
-- Coursework highlights: Data Structures and Algorithms, Database Systems, Cloud Computing, Distributed Systems, Big Data Fundamentals
-
+- B.S. in Computer Science, Northbridge University, 2010–2014
+- AWS Certified Data Analytics – Specialty, 2019
+- Ongoing: Spark & Streaming hands-on practice, Snowflake fundamentals, and advanced dbt training to address identified gaps

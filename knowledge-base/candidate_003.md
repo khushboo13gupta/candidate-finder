@@ -1,54 +1,89 @@
-# Avery Collins
+# Lena Duarte
 
 ## Summary
 
-Result-oriented Python developer with 8 years of backend experience designing, building, and scaling APIs and data pipelines. Proficient in Django, FastAPI, Flask, and PostgreSQL; skilled in data processing with Pandas and SQL optimization. Led small engineering teams, implemented CI/CD, and delivered measurable performance improvements. Comfortable with Docker, Kubernetes, and AWS, and focused on delivering secure, maintainable code. Currently upskilling in Kafka and advanced GraphQL; Kubernetes operations are also in progress to close maturity gaps.
+Seasoned Python developer with 10 years of hands-on experience delivering scalable backend services and data pipelines. Proficient in Django, Flask, FastAPI, and asynchronous programming. Strong in PostgreSQL design, Redis caching, and cloud deployments (AWS). Known for shipping reliable features, mentoring teammates, and driving improvements in performance, reliability, and security.
 
 ## Skills
 
-- Languages: Python (Advanced), SQL (Advanced)
-- Frameworks: Django, FastAPI, Flask
-- APIs: REST, GraphQL (basic)
-- Data & Analytics: Pandas, NumPy, SQL optimization
-- ORM: Django ORM, SQLAlchemy
-- Databases: PostgreSQL, MySQL
-- Caching/Messaging: Redis, RabbitMQ
-- ETL & Scheduling: Airflow (basic)
-- Testing: PyTest, unittest
-- CI/CD: GitHub Actions, GitLab CI
-- Containerization & Orchestration: Docker, Kubernetes (foundation)
-- Cloud & Infra: AWS (EC2, RDS, S3), Terraform
-- Monitoring: Prometheus, Grafana
-- Version Control: Git
-- Soft skills: Agile methodologies, mentoring, cross-functional collaboration
-Note: Gaps include limited production-level Kafka experience and deeper GraphQL expertise; actively being addressed through hands-on projects and training.
+- Python (3.x), Django, Flask, FastAPI
+- PostgreSQL, Redis, MongoDB (basic)
+- RESTful APIs, GraphQL (basic)
+- Celery, asyncio
+- Docker, Kubernetes, Terraform
+- AWS (EC2, S3, RDS, Lambda), serverless patterns
+- CI/CD: Jenkins, GitHub Actions
+- Monitoring: Prometheus, Grafana, ELK
+- Testing: pytest, unittest, TDD approaches
+- Version control: Git
+- Linux, Nginx, JWT/OAuth, API design
 
 ## Experience
 
-### PixelForge - Python Developer
-2015 - 2018
+### Nordis Tech - Backend Developer
+2016 - 2019
 
-- Designed and implemented a REST API for the product catalog using Django REST Framework; integrated with PostgreSQL; reduced API latency by ~40% under load.
-- Built a nightly ETL pipeline with Pandas to ingest supplier feeds and perform data quality checks; automated reporting reduced manual processing by ~80%.
-- Implemented CI/CD with GitLab; increased test coverage from 40% to 85%; introduced linting and pre-commit hooks to maintain code quality.
+- Built REST APIs with Django and Django REST Framework; migrated key workloads to PostgreSQL, reducing average API latency by 30%.
+- Implemented a Redis-based caching layer and a modular microservices gateway to improve scalability and maintainability.
+- Set up CI/CD pipelines with Jenkins and GitHub Actions; deployed services to Kubernetes, cutting deployment time by 40%.
+- Mentored two junior developers and introduced test-driven development; increased unit test coverage from 20% to 60%.
 
-### BlueCircuit Labs - Senior Python Developer
-2018 - 2021
+### Solstice Labs - Senior Backend Engineer
+2019 - 2024
 
-- Led migration from a legacy monolith to microservices using Django, Celery, and RabbitMQ; containerized with Docker and orchestrated in Kubernetes; downtime dropped by ~60% and release cadence improved.
-- Built a FastAPI microservice for user analytics and integrated internal GraphQL dashboards; processed ~2 million events per day with improved query latency.
-- Implemented centralized monitoring with Prometheus and Grafana; created incident response playbooks, reducing MTTR by ~40%.
-- Provisioned AWS resources with Terraform; optimized infrastructure costs by ~25%.
+- Led migration from monolith to microservices; designed event-driven architecture using Kafka; improved system reliability and scalability.
+- Built a high-throughput data ingestion pipeline with Python, Pandas, and Kafka; reduced data processing time by 40%.
+- Implemented Celery-based asynchronous task processing and Dockerized services; deployed on a Kubernetes cluster.
+- Implemented observability with Prometheus, Grafana, and the ELK stack; reduced mean time to restoration (MTTR) by 35%.
+- Mentored three engineers; contributed to internal open-source tooling and best practices.
 
-### NovaTech Solutions - Lead Backend Developer
-2021 - Present
+### QuantaForge - Lead Backend Developer
+2024 - Present
 
-- Senior-leaning backend lead mentoring 3 junior engineers; designed a modular Django + FastAPI microservices platform deployed on AWS; time-to-market improved by ~40%.
-- Implemented robust authentication (OAuth 2.0 / JWT), rate limiting, and audit logging; integrated security scanning into CI/CD to enhance security posture.
-- Optimized data access by refactoring heavy ORM queries and adding targeted indexing; reporting endpoints became ~3x faster.
-- Established GitHub Actions-based CI/CD with automated tests, linting, and security checks; deployment cadence increased from monthly to weekly.
-- Gaps: Kafka-based streaming and deeper GraphQL proficiency are acknowledged; actively advancing through coursework and practical implementations.
+- Architected a multi-tenant SaaS backend using a mix of FastAPI, Django, and serverless components (AWS Lambda) for non-critical workloads.
+- Built event-driven flows with SNS/SQS and Step Functions; created a data warehouse feeding BI dashboards.
+- Led a 6-person backend team; implemented GitHub Actions CI/CD across microservices; reduced deployment time by 60%.
+- Established SLOs, dashboards, and robust monitoring; improved reliability and security posture across services.
 
 ## Education
 
-- B.S. in Computer Science, University of Cascadia, 2011 - 2015 (Honors)
+- Bachelor of Science in Computer Science, Aurora University, 2012-2016
+- Certifications: AWS Certified Developer – Associate (2020); Certified Kubernetes Administrator (CKA) (2022)
+
+
+
+# Omar Qadir
+
+## Summary
+
+Ambitious Python developer with 4 years of practical backend experience. Proficient in Django and Flask, PostgreSQL, and REST API design. Comfortable delivering solid features and collaborating with product teams. Some gaps in cloud deployment, containerization, and comprehensive test coverage, but actively pursuing growth through hands-on practice and training.
+
+## Skills
+
+- Python 3.x, Django, Flask, FastAPI
+- PostgreSQL, Redis
+- RESTful APIs, SQLAlchemy
+- Git, Linux
+- Docker (basic), AWS (basic), CI/CD (basic)
+- Testing: pytest (early-stage coverage)
+- Celery (limited), Agile/Scrum
+
+## Experience
+
+### ArcBright Labs - Junior Python Developer
+2020 - 2022
+
+- Built REST APIs with Flask for internal tools; optimized database queries to reduce response time by ~20%.
+- Wrote and expanded unit tests with pytest; test coverage rose from ~10% to ~40%.
+- Implemented lightweight cron jobs for nightly reports; leveraged SQL for data extraction and reporting.
+
+### VertexForge - Software Engineer
+2022 - Present
+
+- Designed and implemented Django-based REST APIs for an e-commerce platform; connected to PostgreSQL and improved query performance, reducing latency by ~25%.
+- Built internal admin tools and dashboards to improve data visibility and integrity.
+- Early-stage deployment relied on manual processes; containerization and cloud adoption are ongoing, with initial experimentation in Docker and AWS.
+
+## Education
+
+- Bachelor of Science in Software Engineering, Sunrise University, 2016-2020

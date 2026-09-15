@@ -1,99 +1,97 @@
-# Elena García
+# Riya Kapoor
 
 ## Summary
 
-Seasoned engineering manager with 8 years of experience leading cross-functional teams to deliver scalable software and reliable systems. Expertise in microservices, cloud architecture, and data-driven product development. Proven track record of aligning technical strategy with business goals, mentoring staff, and improving delivery velocity and reliability. Passionate about developer experience, security, and measurable impact.
+Engineering Manager with 7 years of experience in software engineering and team leadership. I translate product strategy into scalable, reliable systems while growing high-performing teams. I specialize in backend services, cloud migrations, and CI/CD automation, with a focus on mentoring, hiring, and aligning engineering plans with business goals. Skilled at balancing speed and quality, with emphasis on observability, security, and on-call resilience.
 
 ## Skills
 
-- Languages: Python, Java, Go
+- Languages: Python, Java
 - Frontend: React, TypeScript
-- Cloud & Infra: AWS, GCP, Kubernetes, Docker
+- Cloud & Infra: AWS (EC2, ECS, Lambda), Terraform
+- Containers & Orchestration: Docker, Kubernetes
+- CI/CD & Tooling: GitHub Actions, Jenkins
 - Data & Messaging: PostgreSQL, Redis, Kafka
-- DevOps & Tools: GitHub Actions, GitLab CI, Terraform, OpenTelemetry
-- Architecture: Microservices, Event-Driven, CQRS
-- Methodologies: Agile (Scrum/Kanban), OKRs, POC-driven development
-- Leadership: People management, performance reviews, mentoring, hiring
-- Security & Compliance: OWASP, SOC 2 awareness
+- Architecture & Design: Microservices, Event-driven, REST, gRPC
+- Monitoring & Security: Prometheus, Grafana, ELK; IAM basics
+- Methodologies: Agile (Scrum), Kanban
+- People: Mentoring, Recruiting, Performance reviews
 
 ## Experience
 
-### Northbridge Tech Solutions - Engineering Manager
-Jan 2021 – Present
+### Northbridge Labs - Engineering Manager
+Dates
 
-- Led a cross-functional team of 8 engineers across backend, mobile, and data platforms; defined quarterly roadmaps and technical strategy.
-- Migrated three monolith services to microservices on AWS with Kubernetes, increasing deployment frequency from biweekly to weekly and reducing MTTR from 8 hours to 1.5 hours.
-- Implemented end-to-end observability (OpenTelemetry + Prometheus + Grafana); improved service availability from 99.2% to 99.9% and accelerated incident response.
-- Mentored two junior engineers to Senior Engineer level and contributed to hiring and onboarding processes, boosting team retention by 15%.
+- Apr 2021 – Present
+- Built and led a cross-functional team of 8 engineers (backend, frontend, data) delivering the Nimbus payments platform on a microservices architecture.
+- Led migration from a monolith to microservices on AWS; reduced deployment time from hours to minutes; MTTR improved by 40%.
+- Implemented CI/CD pipeline using GitHub Actions and Terraform; introduced canary deployments; cut release cycles by 50% and improved rollback safety.
+- Mentored 3 engineers to Senior Engineer; established quarterly growth plans and code-review guidelines; improved team retention by 15%.
 
-### BrightForge Innovations - Senior Software Engineer / Tech Lead
-Jun 2017 – Dec 2020
+### Northbridge Labs - Senior Software Engineer
+Dates
 
-- Architected and delivered a scalable AI/ML platform built on microservices; designed streaming data pipelines using Kafka and a resilient data layer.
-- Introduced CI/CD with GitLab, containerization of services, and automated testing; shortened release cycles by ~40%.
-- Collaborated with product, design, and data science to deliver customer-facing features with measurable impact on engagement and retention.
+- Jan 2019 – Mar 2021
+- Designed real-time analytics backend using Python, Kafka, and PostgreSQL; achieved 30% throughput improvement.
+- Implemented containerized services with Docker; orchestrated via Kubernetes in staging; improved deployment repeatability and reliability.
+- Collaborated with product to define API contracts; introduced event-driven patterns with REST/gRPC.
 
-### Apex Labs - Software Engineer
-Aug 2015 – May 2017
+### Orion Digital Systems - Software Engineer
+Dates
 
-- Built core backend services and integrated hardware APIs; implemented test automation and performance profiling.
-- Partnered with hardware teams to reduce integration time and improve reliability of edge devices.
+- Jul 2016 – Dec 2018
+- Built Java microservices; implemented REST and event-driven patterns; supported high-availability product used by 100k+ users.
+- Implemented automated tests and monitoring; contributed to platform metrics and SRE practices.
 
 ## Education
 
-- Bachelor of Science in Computer Science, Pacifica Institute of Technology, 2015
-- AWS Certified Solutions Architect – Associate, 2019
+B.S. in Computer Science, University of Palmcrest, 2012–2016
 
 
-# Kai Nakamura
+
+# Mateo Silva
 
 ## Summary
 
-Emerging Engineering Manager with 4 years of hands-on software development and team leadership. Strong in frontend and mobile product development, design systems, and delivering customer-facing features. Known for fast learning, cross-functional collaboration, and producing scalable UI solutions. Currently expanding backend, cloud, and DevOps proficiency; pursuing deeper cloud-native competencies and Kubernetes expertise.
+Emerging Engineering Manager with 4.5 years of hands-on software engineering and leadership in a fast-growing startup. I excel at backend service design, API contracts, and automation. I have shipped features quickly while improving reliability and testing. Eager to scale teams and processes, mentor engineers, and deliver customer-focused platforms. Note: Kubernetes and large-scale multi-region cloud design are areas I am actively growing.
 
 ## Skills
 
-- Frontend: React, React Native, TypeScript
-- Backend: Node.js, Express (basic)
-- Databases: PostgreSQL, MongoDB (basic)
-- Cloud & DevOps: AWS (basic), Docker
-- Mobile: React Native
-- Tools: Git, Jira, Figma, Storybook
-- Architecture: MVC, component-driven design
-- Leadership: Mentoring, roadmaps, cross-functional collaboration
-- Gaps: Limited Kubernetes and cloud-native microservices experience; actively upskilling with online courses and hands-on projects
-- Certifications: AWS Cloud Practitioner – 2023
+- Languages: Node.js, Python
+- Frontend: React
+- Cloud & Infra: AWS basics, CloudFormation; Serverless frameworks
+- Containers: Docker (basic), Kubernetes (familiar – gaps)
+- CI/CD: GitHub Actions
+- Data & Messaging: PostgreSQL, Redis; RabbitMQ
+- Observability: Prometheus, Grafana
+- Architecture: REST, modular monolith, microservices (in progress)
+- Methodologies: Agile, Scrum
+- People: Onboarding, mentoring
 
 ## Experience
 
-### LumenWave Inc. - Engineering Manager
-Oct 2024 – Present
+### PulseForge - Engineering Manager
+Dates
 
-- Lead a team of 6 engineers delivering a cross-platform product (web and mobile) using React, React Native, and TypeScript.
-- Implemented lightweight Agile rituals and a shared design system, improving on-time delivery by 25% and UI consistency.
-- Drove collaboration with product, design, and QA to reduce rework; established metrics for developer velocity and quality.
+- Mar 2024 – Present
+- Launched a centralized feature-flag and config platform; increased release cadence from biweekly to weekly; improved rollback safety.
+- Recruited and onboarded 2 engineers; formalized onboarding; built a 90-day ramp plan; improved team morale.
+- Implemented basic CI/CD with GitHub Actions and containerized workflows; reduced manual deployment steps by 40%.
 
-### NovaEdge - Senior Software Engineer / Tech Lead
-Jul 2022 – Sep 2024
+### PulseForge - Senior Software Engineer
+Dates
 
-- Led frontend and mobile development for a flagship product; built a design system with reusable components and accessibility considerations.
-- Implemented performance optimizations (code-splitting, memoization) reducing first-load time by 30% and cutting support tickets related to UI regressions by 15%.
-- Mentored two junior engineers into mid-level roles and established peer-code-review standards.
+- Feb 2022 – Mar 2024
+- Built backend services in Node.js; designed RESTful APIs; integrated PostgreSQL and Redis; improved latency by ~25%.
+- Introduced unit and integration tests; increased test coverage to 85%.
+- Participated in architecture discussions for future microservices; currently progressing with a modular monolith approach.
 
-### Aurora Labs - Software Engineer
-Jun 2019 – Dec 2021
+### PulseForge - Software Engineer
+Dates
 
-- Built REST APIs with Node.js; collaborated with data science to deliver data-rich features.
-- Implemented automated tests and CI practices that improved API reliability and reduced deployment failures.
-- Initiated UI-driven tooling improvements that enhanced developer productivity.
-
-### Career Gap - Career Break
-Jan 2022 – Jun 2022
-
-- Took a brief break for personal reasons; during this time completed online courses in Node.js, frontend performance, and cloud fundamentals to accelerate return-to-work.
+- 2019 – 2022
+- Implemented features in Node.js; built API endpoints; created internal tooling; contributed to onboarding and developer experience.
 
 ## Education
 
-- Bachelor of Science in Computer Science, Metropolis University, 2019
-- AWS Cloud Practitioner – 2023
-
+B.S. in Software Engineering, Riverstone University, 2012–2016

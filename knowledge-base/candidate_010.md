@@ -1,53 +1,55 @@
-# Rowan Blake
+# Arden Vance
 
 ## Summary
 
-Rowan Blake is a Python backend developer with eight years of professional experience across SaaS and analytics platforms. Expertise includes Django, Flask, REST APIs, and data processing with Pandas and SQL databases. Known for driving performance improvements, security-conscious deployments, and reliable service delivery. Experienced with Docker, CI/CD, and AWS, Rowan also mentors junior engineers. Note: there is a gap in Kubernetes experience and modern frontend frameworks; actively upskilling through courses and hands-on practice to close the gap.
+Seasoned Python developer with 8 years of experience building scalable backend services and data-driven applications. Expert in Django and FastAPI, with a strong track record of shipping reliable APIs, improving performance, and driving CI/CD improvements. Demonstrated ability to lead small teams, collaborate with data and frontend colleagues, and mentor junior engineers. Some exposure to cloud and orchestration is present, but not a primary focus.
 
 ## Skills
 
-- Python: Advanced | Django: Advanced | Flask: Proficient | API design: REST, GraphQL (Basic)
-- Databases: PostgreSQL, MySQL; Redis; MongoDB
-- Data processing: Pandas, NumPy
-- Messaging/Task queues: Celery, RabbitMQ
-- DevOps: Docker, Docker Compose; Git; CI/CD (GitHub Actions)
-- Cloud: AWS (EC2, RDS, Lambda)
-- Testing/Observability: PyTest, unittest; Sentry; Prometheus (basic)
-- Orchestration: basic Docker-based workflows
-- Gaps/Focus: Kubernetes (limited), frontend JS frameworks (React/Vue) limited; improving automated test coverage
+- Python: Expert
+- Django: Expert
+- FastAPI: Proficient
+- PostgreSQL: Expert
+- Redis: Proficient
+- Docker: Proficient
+- GitHub Actions: Proficient
+- AWS (EC2, S3): Intermediate
+- Celery: Proficient
+- RabbitMQ: Proficient
+- pytest, unittest: Proficient
+- Kubernetes: Familiar (limited production usage)
+- React: Familiar
+- GraphQL: Basic
 
 ## Experience
 
-### Nordic Cloud Labs - Backend Developer
-2015-2017
+### Pillar Labs - Lead Backend Engineer
+2024 - Present
 
-- Led migration of a Flask-based monolith to Django REST Framework across 10+ services, reducing average API latency by ~35%.
-- Implemented Redis-backed caching and Celery for asynchronous tasks, doubling task throughput and improving user-perceived responsiveness.
-- Built internal tooling for API documentation and testing (Swagger/OpenAPI, pytest), shortening developer onboarding by ~25%.
+- Led migration of critical services from a monolithic Django codebase to a microservices architecture using FastAPI, orchestrated with Docker Compose and Terraform for infrastructure as code.
+- Architected high-throughput REST APIs for product catalog and order management; employed PostgreSQL with advanced indexing, materialized views, and Redis caching to reduce latency by 40%.
+- Implemented CI/CD pipeline with GitHub Actions, including automated tests, image scanning, and blue-green deployments to AWS EC2; improved deployment frequency and reliability.
+- Mentored two junior developers; established a lightweight code-review process; introduced unit and integration tests; improved onboarding time by 30%.
+- Collaborated with data science teammates to build feature flags and telemetry for experiment tracking, enabling data-informed product decisions.
 
-### BlueNova Analytics - Senior Python Developer
-2017-2019
+### Cinderbyte - Senior Python Developer
+2021 - 2024
 
-- Architected microservices for an analytics platform using Django REST Framework and Celery, with PostgreSQL and Redis as core components.
-- Designed robust data ingestion pipelines and ETL processes with Pandas/Numpy, improving data quality metrics by ~25% and enabling near real-time dashboards.
-- Mentored three junior engineers; established code-review standards and CI feedback loops that raised overall code quality and reduced bug rate in releases.
+- Developed analytics and reporting API using FastAPI with asynchronous endpoints, database connection pooling, and Redis caching; supported dashboards and user-facing analytics.
+- Built a data ingestion pipeline from JSON and CSV sources; implemented ETL routines with idempotent processing and data quality checks.
+- Implemented comprehensive testing strategy (pytest) and CI with GitHub Actions; code coverage rose from 32% to 78%.
+- Containerized services with Docker and introduced straightforward AWS deployment patterns; improved service stability and rollback capabilities.
+- Collaborated with product and frontend teams to design monitoring dashboards; established alerts using Prometheus and Grafana; improved issue detection and response times.
 
-### Sabbatical / Personal Project - Independent Python Developer
-2019-2020
+### NovaTech Solutions - Python Developer
+2018 - 2021
 
-- Built an open-source analytics toolkit featuring modular microservices, containerized with Docker and deployed locally and to cloud demos.
-- Published three Python packages to PyPI; authored extensive documentation and examples, and gained over 1,000 combined downloads across projects.
-- Used the break to explore Kubernetes concepts in a home lab and begin laying groundwork for cloud-native deployments; began applying lessons to professional work afterward.
-
-### BrightLeaf Analytics - Backend Engineer
-2020-2023
-
-- Re-architected a legacy data-ingestion system into microservices with Django + Flask, coupled with Celery workers and Redis queues; improved fault tolerance and scalability.
-- Implemented data processing pipelines with Pandas/Numpy; optimized SQL queries and added indexing strategies in PostgreSQL, reducing query times by up to 40%.
-- Introduced comprehensive test suites with PyTest, raised test coverage to about 80%, and integrated Sentry for error monitoring; improved post-release stability and faster debugging.
+- Developed a Django-based CRM and operations toolset; built RESTful endpoints, authentication, and role-based access control; integrated with PostgreSQL and Redis caching for performance.
+- Led refactoring of legacy modules into modular services; introduced a formal test suite; reduced bug backlog and improved developer productivity.
+- Implemented basic observability with Prometheus and Grafana; created dashboards to track API latency, error rates, and system health.
+- Collaborated with frontend teams to ensure API consistency and smooth UI integration; conducted ongoing code reviews and helped set coding standards.
 
 ## Education
 
-- BSc in Computer Science, University of Meridian, 2011–2015
-- AWS Certified Solutions Architect – Associate, 2022
-
+- B.S. in Computer Science, Northbridge University, 2011–2015
+- Coursework: Algorithms, Databases, Distributed Systems, Software Engineering practices

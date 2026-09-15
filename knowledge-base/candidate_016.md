@@ -1,83 +1,58 @@
-# Avery Chen
+# Mira Taleb
 
 ## Summary
 
-Engineering Manager with 9 years of software development and people leadership. Experienced in distributed systems, cloud infrastructure, and scalable product delivery. Proven track record of building high-performing teams, mentoring engineers, and aligning technical strategy with business goals. Passionate about measurable impact, data-driven decision making, and fostering a culture of quality and autonomy.
+Engineering Manager with nearly a decade of experience in software engineering and team leadership across SaaS and robotics domains. Proven track record in delivering customer-centric products on time, scaling teams, and improving development processes. Skilled in building high-performing teams, implementing CI/CD pipelines, and guiding cross-functional collaboration. Focused on scalable architectures, cost-aware decision making, and product-driven delivery. Some growth opportunities include Kubernetes orchestration and advanced cloud-native observability.
 
 ## Skills
 
-- Languages: Java, Go, Python, JavaScript (TypeScript)
-- Frontend/Backend: Spring Boot, React, Node.js
-- Architecture: Microservices, REST, Event-driven design
-- Cloud & Ops: AWS, Kubernetes, Docker, Terraform/CloudFormation
-- CI/CD & Tooling: GitHub Actions, Jenkins, Spinnaker
-- Observability: Prometheus, Grafana, OpenTelemetry
-- Databases: PostgreSQL, Redis, MongoDB
-- Testing: TDD, unit/integration testing, end-to-end testing
-- Agile / Leadership: Scrum, Kanban, backlog prioritization, mentoring, performance reviews
-- Security & Compliance: IAM, SSO basics, secure coding practices
+- Programming: Python, Java, C++
+- Frontend: React, TypeScript
+- Architecture: Microservices, RESTful APIs, event-driven design
+- Cloud: AWS (EC2, S3, RDS), GCP basics
+- Containers: Docker; Kubernetes: limited hands-on usage
+- CI/CD: Jenkins, GitHub Actions
+- Configuration/Infra: Terraform (basic)
+- Databases: PostgreSQL, MySQL, Redis
+- Testing: JUnit, PyTest, Cypress
+- Monitoring: Prometheus, Grafana (basic exposure)
+- Agile: Scrum, Kanban
+- Leadership: Team building, mentoring, performance reviews
+- Security: OWASP Top 10 awareness
+- Soft skills: Stakeholder management, cross-functional collaboration
+
+- Areas for growth: Kubernetes proficiency, advanced cloud architecture, Terraform module development, and deeper SRE practices.
 
 ## Experience
 
-### NovaTech Solutions - Engineering Manager
-Dates: 2017 – Present
+### OrionForge Tech - Engineering Manager
+Dates: 2021–Present
 
-- Led an 8-person cross-functional team (backend, frontend, QA, and DevOps) to deliver a multi-tenant SaaS platform.
-- Migrated the core monolith to microservices using Go and Java; containerized with Kubernetes and deployed on AWS; achieved 99.95% uptime.
-- Implemented CI/CD pipelines with GitHub Actions and Jenkins; reduced release cycle from monthly to biweekly and deployment time from hours to 25 minutes.
-- Established SRE practices: standardized dashboards (Prometheus/Grafana), incident management, and runbooks; MTTR dropped by ~40%.
-- Built a culture of continuous learning: formal mentoring plans, quarterly performance reviews, and career development roadmaps for engineers; promoted three engineers to senior/tech-lead roles.
-- Partnered with product and data teams to deliver features faster, improve reliability, and improve customer satisfaction and retention.
+- Led 3 cross-functional squads (total ~20 engineers) delivering 8 product releases per year; reduced average development cycle time from six weeks to two weeks by instituting iterative planning, feature flags, and automated QA gates.
+- Implemented end-to-end CI/CD pipelines with Jenkins and GitHub Actions; introduced blue/green deployments and feature flag strategies, boosting release reliability to 99.95% uptime.
+- Mentored 12 engineers for growth; established quarterly development plans, resulting in two promotions to senior engineer and one to team lead; improved internal mobility and knowledge sharing through communities of practice.
+- Collaborated with Product and Design to deliver user-centric features; migrated critical services toward microservices with event-driven architecture, improving scalability and resilience.
+- Managed annual cloud budget, staffing forecasts, and vendor negotiations; achieved ~15% cost savings while maintaining performance; instituted resource tagging and cost allocation for tighter governance.
 
-### BrightForge Industries - Senior Software Engineer
-Dates: 2014 – 2017
+### Northgate Robotics - Senior Software Engineer
+Dates: 2019–2021
 
-- Designed and implemented backend services in Java and Kotlin, delivering robust REST APIs and event-driven components.
-- Led modernization efforts for key services; introduced comprehensive unit/integration testing, increasing test coverage by 25%.
-- Collaborated with front-end and product teams to define scalable service interfaces and data models; contributed to architectural decisions for high-availability systems.
-- Mentored junior engineers on code quality, testing, and debugging practices; contributed to the hiring and onboarding process.
+- Led a cross-functional team of 5 software engineers and 2 robotics hardware engineers on a mobility robotics platform, delivering software updates aligned with hardware iterations.
+- Architected and implemented microservices using Spring Boot and Python; integrated ROS components; built a data pipeline with Kafka, improving throughput and data fidelity by ~30%.
+- Implemented automated testing with JUnit, PyTest, and Cypress; achieved ~85% test coverage and established CI with Jenkins, enhancing release confidence and cycle time.
+- Drove DevOps improvements: containerized services with Docker; limited Kubernetes deployments; improved deployment rollback strategy and observability, reducing MTTR by ~40%.
+- Facilitated quarterly design reviews with hardware teams; aligned software roadmap with hardware timelines; enhanced cross-team collaboration and milestone predictability.
 
-## Education
+### PixelForge Solutions - Software Engineer
+Dates: 2016–2019
 
-- B.S. Computer Science, University of Cascadia, 2010–2014
-
-
-# Nova Patel
-
-## Summary
-
-Engineering Manager with 4 years of software development and leadership experience. Currently leading a small cross-functional squad (frontend, backend, design) and driving delivery for a growing product. Strong in frontend development and product collaboration; actively developing cloud, backend architecture, and people management skills. Noted gaps include cloud infrastructure experience, scalable microservices design, and formal budgeting/resource planning, which are being addressed through mentorship and targeted training.
-
-## Skills
-
-- Languages: JavaScript/TypeScript, Python
-- Frontend: React, Redux
-- Backend: Node.js, Express
-- Databases: PostgreSQL
-- Tools: Git, Docker
-- CI/CD: basic Jenkins, GitHub Actions
-- Cloud: AWS basics
-- Testing: Jest
-- Methodologies: Agile, Scrum
-- Soft skills: Stakeholder communication, backlog grooming, cross-functional collaboration
-
-## Experience
-
-### Quanta Labs - Engineering Manager
-Dates: 2022 – Present
-
-- Lead a 4-person cross-functional squad (frontend, backend, designer, and QA) delivering the NovaUI feature set.
-- Increased feature delivery cadence from roughly 6 weeks to 3 weeks; implemented a weekly release rhythm and improved planning accuracy.
-- Established basic CI/CD with GitHub Actions; introduced unit and integration tests; enhanced code reviews and collaboration with design and product.
-- Partnered with product and customer success to translate feedback into measurable improvements, boosting user-facing satisfaction and adoption.
-
-### LuminaTech - Senior Software Engineer
-Dates: 2020 – 2022
-
-- Built and maintained Node.js backend services; contributed to the migration from a legacy monolith to modular services.
-- Won trust of cross-functional partners by delivering 3 critical features on schedule; mentored 1 junior engineer and improved team capabilities.
-- Growth areas identified: cloud infrastructure exposure, scalable architecture, and formal budgeting/ vendor management; taking steps toward improvement with training and hands-on practice.
+- Built scalable backend services in Java/Spring Boot and Node.js; contributed to monolith-to-microservices migration, introducing better modularity and observability.
+- Developed REST APIs used by four major products; implemented Redis caching and optimized SQL queries, yielding ~20% faster response times.
+- Implemented automated test suites (unit/integration) and contributed to the organization’s shift toward test-driven development.
+- Collaborated with frontend teams to deliver responsive dashboards in React; led back-end/frontend integration and performed rigorous code reviews.
+- Participated in architectural discussions, contributed to security reviews, and supported release readiness efforts for multiple product launches.
 
 ## Education
 
-- B.S. Computer Science, University of Aurora Tech, 2016–2020
+- Bachelor of Science in Computer Engineering, University of Westbridge, 2012–2016
+- Master of Science in Technology Management (Part-time), Eastern State University, 2019–2021

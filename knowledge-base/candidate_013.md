@@ -1,55 +1,49 @@
-# Lina Novak
+# Nova Calder
 
 ## Summary
 
-Frontend Engineer with 6 years of experience designing and delivering user interfaces for web applications. Skilled at building responsive, accessible UIs and scalable design systems. Proven track record of migrating legacy apps to modern component-based architectures, shipping performance optimizations, and collaborating with product and design teams. Primarily strong in React and Next.js, with ongoing work to deepen TypeScript usage and testing coverage. Comfortable in fast-paced environments and committed to accessible, robust UX.
+Frontend engineer with 6 years of experience delivering responsive, accessible, and performance-focused web applications. Proficient in React and TypeScript, with a track record of shipping features that boost user engagement and conversion. Known for collaborating closely with product and design teams, mentoring junior developers, and contributing to scalable design systems. Strong in performance optimization, accessibility (ARIA/WCAG), and modern tooling. Currently expanding expertise in Next.js SSR and GraphQL client patterns; noteable gaps include advanced Redux Toolkit usage and deep GraphQL tooling, which I address through side projects, code reviews, and targeted learning. Pragmatic, proactive, and motivated by clean code, maintainability, and measurable impact.
 
 ## Skills
 
-- JavaScript: Advanced
-- TypeScript: Beginner–Intermediate; currently learning and applying in new features
-- HTML/CSS: Advanced; responsive layouts, CSS Grid/Flexbox, animations
-- Frameworks/Libraries: React (Advanced), Next.js (Proficient), Vue.js (Working knowledge), Redux (Proficient)
-- UI/Design: Storybook, design tokens, component libraries
-- Data/APIs: REST, GraphQL (Introductory; prototyped small client)
-- Testing: Jest (Basic), Cypress (Not experienced)
-- Performance/Accessibility: Lighthouse budgets, Core Web Vitals, ARIA/ WCAG basics
-- Tooling/CI: Webpack, Vite, ESLint, Prettier, Git, GitHub Actions
-- Visualizations: Recharts, D3 (Basic)
-- Collaboration: Agile/Scrum, code reviews, cross-functional teamwork
-
-Note: This candidate has visible skill gaps to be addressed, including limited TypeScript expertise, minimal end-to-end testing experience, and only introductory exposure to GraphQL. Growth areas noted for onboarding discussions.
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
+- Frameworks/Libraries: React, Next.js, Redux, Zustand, React Query
+- Styling: CSS Modules, Sass, Tailwind CSS, styled-components, Emotion
+- Testing: Jest, React Testing Library, Cypress
+- Performance/Accessibility: Lighthouse, ARIA, WCAG, code-splitting, lazy loading
+- Data & APIs: REST, GraphQL
+- Build/Tooling: Webpack, Vite, Babel, ESLint, Prettier
+- CI/CD & Collaboration: Git, GitHub Actions, Jira, Figma/Design handoff
+- Deployment: Vercel, Netlify
+- Gaps and learning focus: Redux Toolkit ecosystem, advanced GraphQL tooling, deeper Next.js SSR patterns
 
 ## Experience
 
-### NebulaForge - Frontend Engineer
-2021 – Present
+### Alpine Labs - Frontend Engineer
+2021 – 2024
 
-- Led the design-system initiative, creating Nova UI with a 120+ component catalog used across four products. Enabled faster UI iteration and consistency across teams.
-- Migrated critical dashboards from legacy jQuery/ vanilla JS to React + Next.js, reducing bundle size by 28% and improving TTFB and LCP metrics.
-- Implemented performance budgets and automated Lighthouse checks in CI, driving Core Web Vitals improvements (LCP and CLS) by 20–40% over six quarters.
-- Built data visualization features using Recharts and simple D3-based charts; collaborated with data teams to optimize payloads and caching strategies.
-- Introduced a lightweight GraphQL prototype for a new feature area; currently expanding team usage with a roadmap to full GraphQL adoption. Mentored two junior developers and contributed to code reviews and onboarding.
+- Led a company-wide migration from JavaScript to TypeScript across 9 product features, establishing a shared component library of 60+ components and accelerating feature delivery by 30%.
+- Built and documented a design system with Storybook, driving consistency across products and reducing design debt by 40%; implemented accessibility guidelines that increased ARIA coverage and WCAG conformance.
+- Implemented Next.js-based SSR for the marketing and product sites; improved first contentful paint from 2.8s to 1.2s and reduced time-to-interactive by ~60% via code-splitting and dynamic imports.
+- Created CI/CD pipelines using GitHub Actions, enabling automated linting, type checks, and tests on every pull request; lead time to deploy dropped by ~25%.
+- Mentored two junior developers, established a weekly frontend dojo, and improved onboarding with a component-driven development approach.
 
-### Aurora Digital - Frontend Developer
-2018 – 2021
+### Nebula Interactive - Frontend Developer
+2019 – 2021
 
-- Rebuilt several internal admin apps from jQuery/legacy stacks to React, delivering a unified, accessible UI and a shared component library.
-- Implemented design tokens and SCSS-based theming to support multiple product lines; reduced UI drift and sped up theming by 30%.
-- Established unit testing practices using Jest; achieved initial test coverage improvements (target ~40–50% for new modules) and integrated tests into CI.
-- Led responsive UI work for marketing and product sites, achieving consistent cross-device experiences and improved conversion-related metrics.
-- Collaborated closely with design and product to map component needs, created Storybook stories for the library, and reduced design QA cycles.
+- Built a high-traffic single-page application using React and Redux for an e-commerce platform; integrated REST APIs with Axios and implemented optimistic UI patterns to boost perceived performance.
+- Implemented unit and integration tests (Jest + RTL) and added Cypress-based end-to-end tests; test coverage increased to 85%, reducing regressions by a noticeable margin.
+- Collaborated with design to implement responsive, accessible UI; introduced accessibility fixes that improved keyboard navigation and screen reader compatibility on critical flows.
+- Optimized performance through memoization, code-splitting, and image optimization; page load times improved by ~25% on primary routes.
 
-### PixelForge Studio - Web Developer
-2016 – 2018
+### ByteForge - Junior Frontend Developer
+2017 – 2019
 
-- Built marketing sites and small web apps with HTML, CSS, and JavaScript; implemented mobile-first responsive layouts.
-- Introduced accessibility improvements (color contrast, focus management, semantic markup) and performance optimizations (image lazy-loading, asset minification).
-- Worked with back-end teams to consume REST APIs and synchronize UI state with server data; contributed to development of a lightweight internal UI kit.
-- Participated in code reviews, improved linting and coding standards, and helped junior developers ramp up on modern front-end tooling.
+- Developed marketing landing pages and feature pages using vanilla JavaScript, HTML, and CSS; established a scalable CSS architecture that reduced duplication.
+- Contributed to a small internal component library and began introducing basic accessibility improvements (color contrast, semantic HTML, and ARIA labels).
+- Partnered with backend and design teams to implement responsive layouts and pixel-perfect UI across devices; gained hands-on experience with version control, code reviews, and agile processes.
 
 ## Education
 
-- Eastwood University, B.S. in Computer Science, 2012–2016
-- Courses included: Web Accessibility, Human-Computer Interaction, Algorithms and Data Structures
+- Bachelor of Science in Computer Science, University of Cascadia, 2013–2017
 

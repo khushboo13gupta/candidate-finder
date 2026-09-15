@@ -1,50 +1,60 @@
-# Nova Lysander Vale
+# Juniper Hale
 
 ## Summary
 
-Creative AI Engineer with 7 years of hands-on experience turning research into production-ready systems. Demonstrated ability to design and deploy computer vision and ML models at scale, optimize latency, and collaborate across product, data science, and engineering teams. Proficient in Python, PyTorch, and cloud-native architectures; track record of delivering measurable improvements in accuracy, throughput, and cost. Currently expanding MLOps capabilities and on-device inference, with a conscious gap in large-scale production monitoring and full-scale Kubernetes governance.
+Juniper Hale is a capable AI Engineer with 8 years of experience delivering production-ready machine learning systems. Proficient in Python, PyTorch, TensorFlow, and NLP/CV techniques, she has led cross-functional teams from data science to product to drive measurable business impact. Her track record includes reducing latency, improving model accuracy, and delivering scalable MLOps pipelines across AWS and GCP. She is currently focusing on end-to-end ML platforms, monitoring, and governance to ensure robust, scalable deployment. Note: there are gaps in Kubernetes security practices and edge deployment strategies, which she is actively addressing through hands-on projects and targeted training.
 
 ## Skills
 
-- Languages: Python, SQL, Bash
-- ML Frameworks: PyTorch, TensorFlow, Scikit-Learn
-- Computer Vision: OpenCV, TorchVision, ONNX
-- NLP (foundational): BERT fine-tuning, text classification (in-progress for large-scale NLP)
-- Data & Orchestration: Pandas, NumPy, Spark (basic), Apache Airflow
-- MLOps & Deployment: Docker, Kubernetes (basic), MLflow, GitLab CI, CI/CD
-- Clouds & Services: AWS (SageMaker, Lambda, S3), Google Cloud (Vertex AI, Cloud Run)
-- Monitoring & Experimentation: Prometheus, Grafana, Drift detection (manual), Jupyter/Notebook-based experimentation
-- Gaps / in-progress: Production-grade ML monitoring at scale, full-scale Kubernetes governance, real-time streaming pipelines (Kafka), end-to-end model governance
+- Languages: Python, SQL
+- ML / AI: PyTorch, TensorFlow, scikit-learn, transformers (Hugging Face), OpenCV, NLP, Computer Vision, Recommendation systems
+- Data / ETL: Pandas, NumPy, Spark, Parquet, feature stores
+- MLOps / DevOps: MLflow, DVC, Kubeflow (exposure), Docker, Kubernetes, CI/CD pipelines
+- Cloud / Platform: AWS (SageMaker, Lambda), Google Cloud Platform (Vertex AI), Azure ML
+- Data Engineering / Orchestration: Apache Spark, Airflow/Prefect, BigQuery
+- APIs / Tools: FastAPI, REST, Git, Jira, Agile
+- Monitoring / Governance: Prometheus, Grafana, model monitoring, drift detection, A/B testing
+- Notes on gaps: Kubernetes security best practices and edge deployment strategies are areas for further growth
 
 ## Experience
 
-### LuminaTech Innovations - Machine Learning Engineer
-2019 – 2022
+### LumenTech — Lead AI Engineer
+2024 - Present
 
-- Built an end-to-end computer vision pipeline for defect detection in manufacturing; achieved 92% test accuracy and deployed on AWS SageMaker, reducing defect-detection latency by 60%.
-- Implemented an ETL and feature-processing stack with Apache Airflow and Spark, cutting data preparation time by 40% and enabling daily model retraining.
-- Introduced MLflow-driven experiment tracking and a lightweight model registry, boosting collaboration between data scientists and engineers and shortening model deployment lead times by ~30%.
-- Collaborated with hardware teams to optimize inference pipelines for edge devices, enabling efficient on-device processing with TorchScript.
+- Lead a team of 6 engineers to design and deploy multimodal models for manufacturing analytics, combining CV and NLP to derive actionable insights from sensor and text data.
+- Built an automated data labeling pipeline with active learning, increasing labeling efficiency by 40% and accelerating model iteration cycles.
+- Implemented scalable inference services with FastAPI, Docker, and AWS SageMaker; achieved 99.9% uptime and robust monitoring with Prometheus/Grafana.
+- Collaborated with product and analytics teams to define success metrics, ran controlled A/B tests, and delivered measurable improvements in model business impact.
 
-### Northstar AI Labs - Senior AI Engineer
-2022 – 2025
+### QuantumForge — Senior AI Engineer
+2022 - 2024
 
-- Led the development of a real-time object detection system for autonomous drones; optimized for edge devices with TorchScript and ONNX, achieving 25–30 FPS and 28 ms latency; improved detection accuracy by 6 percentage points.
-- Directed a multi-task vision-language model for packaging automation; integrated model outputs with ERP to support human-in-the-loop workflows, increasing throughput by ~20%.
-- Built production-grade monitoring and alerting for ML workloads using Prometheus and Grafana; introduced drift detection and alerting to reduce ML incidents by 40%.
-- Mentored two junior engineers, established coding and experiment-tracking best practices, and authored internal playbooks for model evaluation and debugging.
+- Drove ML Ops modernization, introducing MLflow for experiment tracking, reproducible pipelines, and model governance across teams.
+- Migrated training pipelines to distributed PyTorch DDP on multi-GPU clusters, reducing training time by 30% and enabling larger-scale experiments.
+- Implemented end-to-end monitoring dashboards and drift detection, with alerting to trigger retraining, improving model reliability in production.
+- Built containerized workloads and Kubernetes-based orchestration to streamline deployment and rollback processes.
 
-### Vertex Data Systems - Staff AI Engineer
-2025 – Present
+### NovaCompute — AI Engineer
+2020 - 2022
 
-- Migrated several legacy ML workloads from standalone scripts to Kubernetes-based microservices with Docker containers; improved resource efficiency by 35% and reduced cloud costs by 22%.
-- Implemented an autoscaling inference service on AWS, achieving 99.9% uptime and smoother handling of traffic spikes during peak events.
-- Researched lightweight transformer architectures for on-device inference, delivering improvements in latency and energy consumption while maintaining acceptable accuracy.
-- Partnered with product teams to translate business requirements into ML roadmaps, prioritizing reliability and observability.
+- Led development of an NLP-based customer support chatbot using transformers (BERT/GPT variants) and domain-specific fine-tuning, integrated with production REST APIs.
+- Achieved an 18% uplift in CSAT within three months and a 25% reduction in support tickets through improved language understanding and contextual responses.
+- Deployed models on AWS ECS with CI/CD pipelines, automating retraining triggers and artifact management with MLflow.
+- Collaborated with data engineering to implement a feature store and data quality checks, ensuring reliable input data for model training.
+
+### Orbital Labs — AI Engineer
+2018 - 2020
+
+- Built end-to-end ML pipelines for a content recommender system, leveraging PyTorch, Python, and a scalable feature store.
+- Reduced inference latency from ~120 ms to ~70 ms per request by optimizing model architectures and batching strategies.
+- Implemented A/B testing framework to rigorously evaluate model variants and measure business impact.
+- Partnered with data engineers to ensure data quality and lineage, enabling reproducible model training and evaluation.
 
 ## Education
 
-- Master of Science in Computer Science, Northbridge University, 2018
-- Bachelor of Science in Electrical Engineering, Northbridge University, 2016
-- AWS Certified Machine Learning – Specialty, 2020
-- TensorFlow Developer Certificate, 2021
+- MSc in Machine Learning, University of Northbridge, 2016 - 2018
+- BSc in Computer Science, University of Northbridge, 2012 - 2016
+
+Additional notes:
+- Certifications in progress include Kubernetes security and cloud-native ML deployment. 
+- Based in Seattle, open to hybrid/remote arrangements with occasional on-site collaboration.

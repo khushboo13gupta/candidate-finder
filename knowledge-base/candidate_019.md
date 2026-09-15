@@ -1,44 +1,46 @@
-# Avery Chen
+# Avery Quinn
 
 ## Summary
 
-Avery Chen is a results‑driven DevOps Engineer with 6+ years of experience designing and operating scalable cloud infrastructures. Proficient in AWS-based architectures, containerization with Kubernetes, and CI/CD automation, Avery has a track record of improving deployment speed, reliability, and on‑call resilience while reducing costs. Currently expanding expertise in Azure and Windows workloads, OpenShift, and advanced GKE features to round out multi‑cloud capabilities. Some growth areas include Windows‑focused automation and deeper Puppet/OpenShift experience.
+Results-driven DevOps Engineer with 8 years of experience in automating cloud infrastructure, building scalable CI/CD pipelines, and modernizing on-premises platforms. Proven ability to reduce deployment times, cut costs, and improve system reliability through IaC, containerization, and observability. Strong collaborator across development, security, and operations. Currently addressing gaps in Google Cloud Platform and advanced Kubernetes security policy automation to expand versatility in multi-cloud environments.
 
 ## Skills
 
-- Cloud: AWS (Expert), Google Cloud Platform (Proficient), Azure (Foundational)
-- Containers & Orchestration: Docker (Expert), Kubernetes (Advanced), OpenShift (Limited exposure)
-- CI/CD & IaC: GitHub Actions (Advanced), GitLab CI (Advanced), Jenkins (Intermediate), Terraform (Advanced), Ansible (Advanced), Puppet (Limited exposure)
-- Monitoring & Logging: Prometheus, Grafana, ELK Stack, Jaeger
-- Scripting & Automation: Python, Bash, Go (Beginner)
-- Networking & Security: IAM, VPC, VPN, DNS, TLS, NACLs
-- Practices: SRE fundamentals, incident response, runbooks, cost optimization, GitOps fundamentals
-- Growth focus: Azure production capabilities, Windows workloads, deeper OpenShift experience
+- Cloud: AWS (Advanced), Azure (Intermediate), GCP (Basic – gap)
+- Containerization: Docker (Advanced), Kubernetes (Advanced)
+- Infrastructure as Code / Automation: Terraform (Advanced), Ansible (Advanced), Puppet (Basic)
+- CI/CD: GitLab CI, Jenkins, GitHub Actions
+- Monitoring / Logging: Prometheus, Grafana, CloudWatch, ELK stack
+- Scripting & Programming: Python, Bash
+- Databases: PostgreSQL, MySQL
+- Operating Systems: Linux (RHEL/CentOS, Ubuntu)
+- Networking: VPC, DNS, TLS, VPN, IAM best practices
 
 ## Experience
 
-### Nebula Labs - Junior DevOps Engineer
-2019 - 2021
+### PulseTech Labs - Senior DevOps Engineer
+Dates: 2022 - Present
 
-- Built end-to-end CI/CD pipelines with GitLab CI, Docker, and Kubernetes manifests; reduced deployment lead time by ~40%.
-- Migrated legacy on‑prem apps to AWS using Terraform, standardizing security baselines and audit readiness.
-- Implemented centralized logging and basic observability with the ELK stack; streamlined issue triage and on-call handoffs.
-  
-### SkyForge Solutions - DevOps Engineer
-2021 - 2023
+- Migrated core platform to AWS using Terraform across multiple accounts; reduced deployment time from ~3 hours to 15 minutes and cut infrastructure costs by 35%.
+- Built an EKS-based microservices platform with GitLab CI/CD, enabling daily releases and 99.95% uptime.
+- Implemented Prometheus/Grafana observability and alerting; MTTR decreased by ~40% and incident response improved.
+- Introduced policy-as-code with Open Policy Agent for Kubernetes, strengthening security posture and policy consistency across clusters.
 
-- Designed and deployed a Kubernetes-based microservices platform on AWS EKS with Helm charts; introduced canary deployments to reduce risk during releases.
-- Implemented GitOps workflows using Argo CD and Terraform‑driven provisioning; improved rollback and environment parity.
-- Conducted cost optimization initiatives (right-sizing clusters, RI strategy, autoscaling) that yielded ~25% monthly savings.
+### Nebula Systems - DevOps Engineer
+Dates: 2019 - 2022
 
-### CloudMosaic Inc - Senior DevOps Engineer
-2023 - Present
+- Led IaC initiative using Terraform and Ansible; provisioned a multi-account AWS environment with standardized modules, reducing provisioning time by 60%.
+- Developed and maintained Jenkins pipelines for build, test, and deployment; containerized legacy apps with Docker and began Kubernetes experimentation.
+- Accelerated release cadence and reliability by integrating automated testing, security scans, and deployment approvals into CI workflows.
 
-- Led the migration of ~50 microservices to Kubernetes across multiple clusters; authored runbooks and on-call playbooks to improve MTTA/MTTR.
-- Implemented enterprise-grade GitOps across clusters with Argo CD and Flux; integrated CI pipelines with GitHub Actions for streamlined delivery.
-- Built a two-region disaster recovery framework with automated failover tests scheduled quarterly; improved RPO to minutes; mentored junior engineers and junior SREs.
+### NovaSoft - Systems Administrator
+Dates: 2016 - 2019
+
+- Managed and hardened Linux infrastructure, implemented patch management, and maintained monitoring with Nagios.
+- Supported early cloud migrations and virtualization efforts; assisted with capacity planning and disaster recovery exercises.
+- Collaborated with developers to resolve performance bottlenecks and optimize logging/monitoring for on-prem environments.
 
 ## Education
 
-Northview University, B.S. in Computer Science, 2014 — 2018
-
+- Riverbend University, B.S. in Computer Science, 2012 - 2016
+- Certifications: AWS Certified Solutions Architect – Associate (2023); Certified Kubernetes Administrator (CKA) (2022)

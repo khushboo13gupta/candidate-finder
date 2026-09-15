@@ -1,51 +1,53 @@
-# Lena Novak
+# Juno Reed
 
 ## Summary
 
-Lena Novak is a frontend engineer with over 6 years of experience building scalable, user-friendly web applications for SaaS and fintech platforms. She specializes in React and TypeScript, with solid backing in Vue and Next.js, and a strong emphasis on accessible, high-performance UI. Lena thrives in cross-functional teams, driving design systems, component libraries, and robust testing to ship reliable features. She has led migrations to strongly typed codebases, implemented CI/CD pipelines, and mentored junior developers. Note: GraphQL and Node.js are growing areas for her; she is actively upskilling to close these gaps while delivering solid frontend work in the meantime.
+Frontend Engineer with 9+ years of professional experience delivering scalable web applications for SaaS and consumer-focused products. Proficient in React, TypeScript, Next.js, and design systems, with a track record of shipping accessible, high-performance UI at scale. Comfortable collaborating with product, design, and backend teams; proven ability to mentor junior engineers and lead cross-functional initiatives. Seeking a Senior Frontend Engineer role where JavaScript craftsmanship, performance optimization, and system thinking are valued.
 
 ## Skills
 
-- Languages: TypeScript, JavaScript (ES6+), HTML5, CSS3
-- Frameworks/Libraries: React, Next.js, Vue.js, Redux, Zustand
-- UI/UX & Accessibility: responsive design, WCAG/ARIA, design systems, Storybook
-- Testing: Jest, React Testing Library, Cypress
-- Tools & Workflows: Webpack, Vite, ESLint, Prettier, Storybook
-- CI/CD & Deployment: GitHub Actions, GitLab CI, Vercel, Netlify
-- Performance & optimization: code-splitting, lazy loading, Lighthouse budgeting
-- Collaboration & Design: Figma, Jira, Confluence
-- APIs: REST, some GraphQL exposure (growth area)
-- Soft skills: mentoring, cross-functional communication, deadline-driven delivery
+- Frontend: React, TypeScript, Next.js, Redux, React Router
+- UI / Styling: HTML5, CSS3, Sass, CSS Modules, Tailwind, design systems, Storybook
+- Testing & Quality: Jest, React Testing Library, Cypress, Playwright
+- APIs: REST, GraphQL (Apollo), data fetching patterns, caching basics
+- Performance & Accessibility: Lighthouse optimization, code-splitting, lazy loading, WCAG AA, ARIA
+- Build & Tooling: Webpack, Vite, ESLint, Prettier, GitHub Actions, CI/CD pipelines
+- Collaboration & UX: Figma handoff, component-driven development, accessibility-first UI
+- Gaps: Advanced GraphQL caching strategies, CSS-in-JS patterns beyond basics, Vue/Svelte ecosystems, mobile cross-platform native (React Native) familiarity
 
 ## Experience
 
-### NovaTech Labs - Frontend Developer
-2018–2020
+### Aurora Studio - Frontend Developer
+2015–2018
+- Rebuilt 12 marketing-focused sites into a cohesive responsive framework using HTML5, CSS3, and Sass with a shared design system; reduced time-to-market for new campaigns by 45%.
+- Implemented a component library (BEM + Sass modules) that standardized UI across clients, cutting visual QA time by 30%.
+- Led accessibility improvements across major pages, achieving WCAG AA-level conformance for key client sites.
+- Collaborated with design and back-end teams to optimize page performance, boosting LCP by an average of 1.2s on updated sites.
+  
+### NovaWorks - Frontend Engineer
+2018–2021
+- Migrated multiple admin dashboards to React with TypeScript, delivering a 4-product design system used across teams.
+- Built reusable data-visualization components and integrated RESTful APIs; introduced Jest + RTL testing, achieving 60% reduction in regression bugs.
+- Introduced performance budgets and code-splitting strategies, lifting first contentful paint by ~30% and improving Lighthouse scores across the portfolio.
+- Mentored two junior developers and coordinated weekly design-review sessions to ensure accessibility and consistency.
 
-- Rebuilt the marketing site with React, achieving a Lighthouse score rise from 62 to 92 and a 12% increase in organic conversions within six months.
-- Implemented a responsive UI system using CSS Grid and Flexbox, reducing mobile CLS from 0.35 to 0.12 and improving first-meaningful paint by 30%.
-- Led accessibility overhauls: added ARIA roles, keyboard navigation, and alt text improvements; ensured WCAG 2.1 AA compliance across public pages.
-- Collaborated with design and backend teams to migrate features from jQuery to React, accelerating feature delivery by 25% and improving maintainability.
+### Crestline Tech - Senior Frontend Engineer
+2021–2024
+- Led a major Next.js migration for a multitenant SaaS product, implementing server-side rendering, static generation, and a GraphQL gateway (Apollo) to streamline data access.
+- Created and maintained a scalable design system with Storybook, aligning four products under unified typography, spacing, and components.
+- Implemented SEO enhancements (structured data, meta tag optimization, and accessible SPA routing) that contributed to a measurable increase in organic traffic.
+- Drove performance and reliability initiatives, introduced analytics-driven code reviews, and mentored three engineers to senior levels.
 
-### ByteForge Inc. - Frontend Engineer
-2020–2023
-
-- Piloted a full TypeScript migration across eight product modules, introducing strict typing that reduced runtime errors by 40% and boosted developer velocity.
-- Built a design system powered by Storybook with 60+ reusable components, standardizing UI, cutting visual inconsistencies by ~50%, and accelerating onboarding for new engineers.
-- Implemented robust CI/CD pipelines using GitHub Actions, enabling automated previews for every PR and reducing deployment time by 60%.
-- Mentored two junior developers, established a lightweight code-review checklist, and delivered three internal talks on frontend best practices.
-
-### Horizon Labs - Senior Frontend Engineer
-2023–Present
-
-- Lead frontend on a fintech dashboard using Next.js and TypeScript; implemented code-splitting and route-level caching that reduced LCP from 4.2s to 1.6s and time-to-interactive by 40%.
-- Championed accessibility improvements with automated checks and manual QA, driving WCAG 2.1 AA compliance across critical dashboards.
-- Spearheaded the creation of a centralized design system and token-based UI, coordinating with design and backend teams to ensure visual consistency and faster feature delivery.
-- Mentored three junior developers, instituted structured code reviews, and improved onboarding duration by approximately 40%.
-- GraphQL exposure is currently limited; Lena has begun integrating a small Apollo client in a dedicated module to gain hands-on experience while continuing REST-first architecture support.
+### Helix Labs - Staff Frontend Engineer
+2024–Present
+- Spearheaded the evolution of a global design system used by multiple product teams; established governance, contribution guidelines, and a formal component catalog.
+- Led adoption of Next.js 13 Server Components and partial hydration strategies, resulting in a 25% reduction in TTI for complex admin interfaces.
+- Built an internal testing harness and e2e automation (Cypress/Playwright) to accelerate release cycles; improved release confidence and reduced hotfix latency.
+- Acted as a technical mentor for 5 engineers across 2 time zones, conducting code reviews and pairing sessions focused on performance and accessibility.
 
 ## Education
 
-- B.S. in Computer Science, Riverton University, 2014–2018
-- Relevant coursework: Web Programming, Human-Computer Interaction, Software Engineering
-- Certifications: Frontend Web Development Nanodegree (online program, self-initiated)
+Harrowfield University, B.S. in Computer Science, 2011–2015
+- Relevant coursework: Data Structures and Algorithms, Web Development, Human-Computer Interaction, Software Engineering
+- capstone project: Accessible design system for a municipal service portal
+

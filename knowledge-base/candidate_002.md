@@ -1,113 +1,115 @@
-# Avery Chen
+# Ava Chen
 
 ## Summary
 
-Seasoned Engineering Manager with 12 years of experience delivering scalable backend platforms, mentoring engineers, and aligning technology with business goals. Proven ability to lead cross-functional teams through complex migrations, improve reliability, and accelerate time-to-market.
+Engineering Manager with 6 years of experience, rising from software engineer to team lead. Proven track record of shipping reliable software, building high-performing teams, and instituting scalable engineering practices. Proficient in Python and Go, front-end React, and cloud infrastructure on AWS; skilled in mentoring, roadmap alignment, and cross-functional collaboration.
 
 ## Skills
 
-- Leadership and people management (teams up to 12)
-- Software architecture (microservices, event-driven, domain-driven design)
-- Cloud: AWS (certified), basic GCP
-- CI/CD, GitOps, SRE practices
-- Languages: Java, Kotlin, Go
-- Containers: Docker, Kubernetes
-- Datastores: PostgreSQL, Redis, Cassandra
-- Observability: Prometheus, Grafana, OpenTelemetry
-- Agile methodologies, roadmapping, OKRs
+- Languages: Python, Go, JavaScript (TypeScript)
+- Frameworks: Django, Flask, React, Node.js
+- Cloud & Infra: AWS, GCP
+- Containers & Orchestration: Docker, Kubernetes
+- CI/CD & Tooling: GitHub Actions, Jenkins, Terraform
+- Observability & Testing: Prometheus, Grafana, Jest, PyTest
+- Databases: PostgreSQL, Redis
+- Methodologies: Agile (Scrum/Kanban), Jira, Confluence
+- Leadership: Hiring, performance reviews, mentorship, career development
 
 ## Experience
 
-### Datalynx Systems - Engineering Manager
-Jan 2019 – Present
+### TechNova Systems - Engineering Manager
+May 2021 – Present
 
-- Led a team of 8 engineers across backend, frontend, and data services; orchestrated a microservices re-architecture that cut latency by 42% and improved fault isolation.
-- Implemented CI/CD pipelines with GitOps; reduced deployment cycle from weekly to daily; improved release reliability by 30%.
-- Spearheaded security and compliance upgrades; introduced OAuth2/JWT, audit logging, and zero-trust considerations.
+- Lead an 8-person distributed team delivering core platform features on time and with quality; reduced release cadence from bi-weekly to weekly.
+- Implemented a scalable CI/CD pipeline using GitHub Actions and Terraform-managed infrastructure, cutting mean time to recovery by 40%.
 
-### Datalynx Systems - Lead Software Engineer
-Jan 2015 – Dec 2018
+### TechNova Systems - Senior Software Engineer
+Jan 2019 – Apr 2021
 
-- Migrated a legacy monolith to microservices using Kafka and RESTful APIs; increased throughput 3x.
-- Mentored 4 junior engineers; established code-review and testing standards; reduced defect rate by 45%.
+- Spearheaded migration from a monolith to microservices; containerized services with Docker and orchestrated with Kubernetes, boosting deployment velocity by 60%.
+- Implemented a unified logging/monitoring stack (Prometheus, Grafana, ELK) that improved incident response and reduced alert fatigue by 35%.
+
+### TechNova Systems - Software Engineer
+Jun 2016 – Dec 2018
+
+- Built multiple microservices in Python and Go; established code-review rituals and testing standards, lifting test coverage from 60% to 85%.
+- Partnered with product and design to decouple frontend and backend features, delivering major user-facing improvements ahead of schedule.
 
 ## Education
 
-B.S. Computer Science, University of Pacifica, 2011
+B.S. in Computer Science, Harborview University, 2016
 
 
-# Mira Kapoor
+# Liam O'Connor
 
 ## Summary
 
-Engineering Manager with 6 years of experience delivering scalable backend services and leading small squads. Known for shipping on time, improving test coverage, and mentoring engineers. Currently expanding expertise in cloud-native architecture and people management at scale.
+Seasoned Engineering Manager with 11 years of experience building scalable platforms and leading cross-functional teams in fast-paced environments. Known for aligning engineering work with business goals, improving delivery speed, and reducing costs through automation and solid architectural decisions. Proficient in Java, Kotlin, and Python; AWS and Kubernetes; strong in roadmapping, stakeholder management, and mentorship.
 
 ## Skills
 
-- Java, Spring Boot
-- Kubernetes, Docker
-- AWS, Terraform
-- PostgreSQL, Redis
-- Kafka
-- CI/CD (Jenkins, GitHub Actions)
-- Test automation (JUnit, Postman)
-- Agile, Scrum, Kanban
-- Observability and incident response basics
+- Languages: Java, Kotlin, Python
+- Cloud & Infra: AWS
+- Containers: Kubernetes
+- Databases: PostgreSQL, Redis
+- Microservices: Spring Boot
+- CI/CD: GitLab CI, Jenkins
+- Observability: Prometheus, Grafana
+- Tools: Jira, Confluence
+- Leadership: Hiring, performance management, career development
 
 ## Experience
 
-### AuroraTech - Engineering Manager
-Aug 2022 – Present
+### NovaForge Labs - Engineering Manager
+June 2018 – Present
 
-- Built and led a 5-person backend team; drove microservices migration; improved release cadence from quarterly to biweekly.
-- Implemented automated test suites; increased unit/integration test coverage from 65% to 92%.
-- Introduced Terraform-based infrastructure provisioning and incident response playbooks; achieved cost awareness and faster recovery.
+- Direct a 6–12 person cross-functional squad delivering critical platform features; increased release velocity by ~40%.
+- Spearhead platform-wide migration to microservices and Kubernetes; achieved 25% cost reduction and improved fault isolation and recoverability.
 
-### AuroraTech - Software Engineer / Senior Software Engineer
-Mar 2018 – Jul 2022
+### NovaForge Labs - Senior Software Engineer
+Jan 2014 – May 2018
 
-- Led migration from monolith to microservices; introduced event-driven patterns; improved system reliability by 25%.
-- Contributed to platform scalability; built CI/CD pipelines and internal tooling to accelerate development cycles.
+- Architected a shared services layer and led migration strategies from monolith to microservices; introduced robust CI pipelines and standardized deployment practices.
+- Collaborated with product and security teams to implement secure-by-default patterns and performance monitoring across services.
 
 ## Education
 
-B.S. Computer Science, Institute of Technology and Management, 2014
+B.Tech in Computer Science, University of Emerald Bay, 2013
 
 
-# Jonah Reed
+# Priya Nair
 
 ## Summary
 
-Early-career Engineering Manager with 4 years of industry experience, currently leading a small product team at Brightwave Innovations. Focused on developer tooling, onboarding, and rapid iteration. Development gaps include cloud-scale architecture, security, and people-management at scale; actively pursuing growth in those areas.
+Early-career Engineering Manager with 4 years of experience guiding small product squads and delivering measurable impact. Strong delivery focus and people skills, with active efforts to close skill gaps in Kubernetes, Go, and advanced cloud architecture. Currently pursuing formal cloud certifications to accelerate platform modernization.
 
 ## Skills
 
-- JavaScript, TypeScript, Python
-- Node.js, React
-- Docker
-- AWS (basic)
-- CI/CD (GitHub Actions)
-- Testing: Jest, Cypress
-- Jira, Scrum
-- Mentorship and cross-functional collaboration
+- Languages: JavaScript (Node.js), Python
+- Cloud: AWS (foundational), pursuing advanced certs
+- Containers & Orchestration: Kubernetes (growing proficiency)
+- CI/CD & Tooling: Jenkins, GitHub Actions
+- Observability: Basic Prometheus/Grafana
+- Databases: PostgreSQL
+- Leadership: Mentoring, onboarding, sprint planning, stakeholder communication
 
-- Development gaps: cloud-scale architecture, security, and people-management at scale.
+Note: Some areas intentionally less developed (Kubernetes, Go, advanced cloud design) with a plan for growth.
 
 ## Experience
 
-### Brightwave Innovations - Engineering Manager
-May 2023 – Present
+### ByteForge Solutions - Engineering Manager
+Apr 2022 – Present
 
-- Built onboarding buddy program; established internal tooling; reduced onboarding time by 60%.
-- Led initiatives to accelerate CI pipeline; cut build times by 40%; improved developer happiness metrics.
-- Coordinated cross-functional collaboration with product and design for a new feature rollout in two quarters.
+- Built and scaled a 3-person squad; established onboarding programs and lightweight performance reviews to accelerate ramp time.
+- Implemented structured sprint rituals and cross-team communications, resulting in a 20% improvement in on-time delivery and higher team morale.
 
-### Brightwave Innovations - Software Engineer
-Jun 2020 – Apr 2023
+### ByteForge Solutions - Software Engineer
+Jun 2019 – Mar 2022
 
-- Implemented internal tooling to automate release checks; reduced manual QA time by 50%.
-- Contributed to backend services with Node.js and PostgreSQL; introduced unit and integration tests; improved reliability.
+- Led code reviews and contributed to feature delivery for a customer analytics module; partnered with QA to improve release quality.
+- Drove the adoption of automated testing and basic CI practices, reducing post-release defects by 15%.
 
 ## Education
 
-B.E. Electrical Engineering, Northdale University, 2020
+B.Tech in Computer Science, National Institute of Technology, 2019
