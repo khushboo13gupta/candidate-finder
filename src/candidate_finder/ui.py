@@ -28,8 +28,8 @@ def main():
 
     theme = gr.themes.Soft(font=["Inter", "system-ui", "sans-serif"])
 
-    with gr.Blocks(title="Insurellm Expert Assistant", theme=theme) as ui:
-        gr.Markdown("# 🏢 Insurellm Expert Assistant\nAsk me anything about Insurellm!")
+    with gr.Blocks(title="Recruiter's Assistant", theme=theme) as ui:
+        gr.Markdown("# 🏢 Recruiter's Assistant\n share the details of the job post and get the best candidate for the job post")
 
         with gr.Row():
             with gr.Column(scale=1):
@@ -38,7 +38,7 @@ def main():
                 )
                 message = gr.Textbox(
                     label="Your Question",
-                    placeholder="Ask anything about Insurellm...",
+                    placeholder="Share the details of the job post and get the best candidate for the job post",
                     show_label=False,
                 )
 
